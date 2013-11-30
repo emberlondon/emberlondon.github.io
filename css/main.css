@@ -12,7 +12,7 @@
 body {
   font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 hr {
@@ -20,4 +20,9 @@ hr {
   outline: none;
   height: 1px;
   background: #ccc;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
