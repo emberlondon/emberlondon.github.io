@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'MavenPro';
+  font-family: 'MavenProRegular';
   src: url('/fonts/maven_pro_regular-webfont.eot');
   src: url('/fonts/maven_pro_regular-webfont.eot?#iefix') format('eot'),
        url('/fonts/maven_pro_regular-webfont.woff') format('woff'),
@@ -10,19 +10,78 @@
 }
 
 body {
+  margin: 0;
+
   font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.5;
+
+  -webkit-font-smoothing: antialiased;
 }
 
-hr {
-  border: none;
-  outline: none;
-  height: 1px;
-  background: #ccc;
+section {
+  margin-top: 0;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+section h1 {
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: -1px;
+}
+
+section {
+  padding: 10px;
+}
+
+.divider {
+  display: none;
+}
+
+.center-block {
+  display: block;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 10px;
+
+  background: #e24b31;
+}
+
+.tomster {
+  display: block;
+  margin: 0 auto;
+}
+
+.masthead {
+  margin: 0;
+
+  font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  text-align: center;
+  letter-spacing: -1px;
+
+  color: white;
+
+}
+
+.centered {
+  text-align: center;
+}
+
+.well {
+  margin: 0 8px;
+  border: 1px solid #e5b5a1;
+  padding: 12px 16px;
+
+  background: #faf4f1;
+  color: #e24b31;
+}
+
+.well p:first-child { margin-top: 0 }
+.well p:last-child { margin-bottom: 0 }
+
+.lead {
+  font-size: 1em;
+  font-weight: bold;
 }
