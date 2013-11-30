@@ -85,3 +85,8 @@ section {
   font-size: 1em;
   font-weight: bold;
 }
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
