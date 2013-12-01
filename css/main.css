@@ -19,27 +19,53 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-section {
-  margin-top: 0;
+hr {
+  border: none;
+  outline: none;
+  margin: 1.5em 0;
+  height: 1px;
+  background: #eee;
 }
 
-section h1 {
+section {
+  margin: 0;
+  padding: 10px 10px 2em 10px;
+}
+
+section > h1 {
   font-weight: bold;
   text-align: center;
   letter-spacing: -1px;
 }
 
-section {
-  padding: 10px;
+input[type="email"] {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
+
+  -webkit-appearance: none;
+  border-radius: 0;
 }
 
-.divider {
-  display: none;
+button {
+  border: 1px solid #e24b31;
+  padding: 0.5em;
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
+
+  background: #e24b31;
+  color: white;
+}
+button:active {
+  background: #b33c27;
+  border-color: #b33c27;
 }
 
-.center-block {
-  display: block;
-  margin: 0 auto;
+.alt-background {
+  background: #eee;
 }
 
 .header {
@@ -62,7 +88,6 @@ section {
   letter-spacing: -1px;
 
   color: white;
-
 }
 
 .centered {
@@ -70,7 +95,6 @@ section {
 }
 
 .well {
-  margin: 0 8px;
   border: 1px solid #e5b5a1;
   padding: 12px 16px;
 
@@ -87,6 +111,74 @@ section {
 }
 
 .img-responsive {
-  max-width: 100%;
+  width: 100%;
   height: auto;
+}
+
+.container {
+  position: relative;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+.center-block {
+  display: block;
+  margin: 0 auto;
+}
+
+.email-group {
+  position: relative;
+  margin: 1em auto;
+}
+.email-group input {
+  box-sizing: border-box;
+  margin: 0;
+  padding-right: 100px;
+  width: 100%;
+}
+.email-group button {
+  position: absolute;
+  top: 0; right: 0;
+  margin: 0;
+}
+
+.block {
+  display: block;
+}
+
+.row {
+  display: block;
+}
+.row:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+@media (min-width: 768px) {
+  .profile {
+    margin-bottom: 1em;
+  }
+  .profile:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+  .profile .image {
+    float: left;
+    width: 50%;
+  }
+  .profile img {
+    display: block;
+    margin: 0;
+  }
+  .profile .text {
+    box-sizing: border-box;
+    float: left;
+    padding: 1em;
+    width: 50%;
+  }
+  .profile h3 {
+    margin-top: -1em;
+  }
 }
