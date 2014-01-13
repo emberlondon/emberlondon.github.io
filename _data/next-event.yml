@@ -5,15 +5,15 @@ talks:
   - speaker_name: Ben Gillies
     speaker_twitter: "@bengillies"
     info: "Ember is designed for building large scale apps, but for truly large scale, with large amounts amounts of data, we need something extra: Threads."
-    image: images/ben.jpg
+    image: images/speakers/ben.jpg
     video_url: "/"
   - speaker_name: Matthew Rudy Jacobs
     speaker_twitter: "@matthewrudy"
     info: "Ember and OAuth — a short tour of OAuth on the client side."
-    image: images/matthew-2.jpg
+    image: images/speakers/matthew-2.jpg
     video_url: "/"
   - speaker_name: Andy Appleton
     speaker_twitter: "@appltn"
     info: Modular UI with Angular (and Ember).
-    image: images/andy.jpg
+    image: images/speakers/andy.jpg
     video_url: "/"
