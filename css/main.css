@@ -1,188 +1,246 @@
-@font-face {
-  font-family: 'MavenProRegular';
-  src: url('/fonts/maven_pro_regular-webfont.eot');
-  src: url('/fonts/maven_pro_regular-webfont.eot?#iefix') format('eot'),
-       url('/fonts/maven_pro_regular-webfont.woff') format('woff'),
-       url('/fonts/maven_pro_regular-webfont.ttf') format('truetype'),
-       url('/fonts/maven_pro_regular-webfont.svg#webfontOM8fITNz') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
+a { color: #e24b31; }
 
 body {
-  margin: 0;
-
-  font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-
   -webkit-font-smoothing: antialiased;
+
+  margin: 0;
+  padding: 0;
+
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  text-align: center;
+
+  background: #fcfcfc;
+  color: #333333;
+}
+
+form {
+  margin: 0 auto;
+  max-width: 24em;
+}
+
+h1,
+h2,
+h3 {
+  margin: 24px 0;
+
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+h4,
+h5,
+h6 {
+  margin: 24px 0;
+
+  font-size: 1em;
+  line-height: 1.5em;
 }
 
 hr {
-  border: none;
-  outline: none;
-  margin: 1.5em 0;
-  height: 1px;
-  background: #eee;
+  margin: 48px auto;
+
+  border: 0;
+  border-top: 1px solid #cccccc;
 }
 
-section {
-  margin: 0;
-  padding: 10px 10px 2em 10px;
-}
+html { font-size: 100%; }
 
-section > h1 {
-  font-weight: bold;
-  text-align: center;
-  letter-spacing: -1px;
+img {
+  display: block;
+
+  margin: 24px 0;
+  max-width: 100%;
 }
 
 input[type="email"] {
-  border: 1px solid #ccc;
-  padding: 0.5em;
+  -webkit-font-smoothing: antialiased;
 
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  box-sizing: border-box;
 
-  -webkit-appearance: none;
-  border-radius: 0;
-}
-
-button {
-  border: 1px solid #e24b31;
-  padding: 0.5em;
-
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1em;
-
-  background: #e24b31;
-  color: white;
-}
-button:active {
-  background: #b33c27;
-  border-color: #b33c27;
-}
-
-.alt-background {
-  background: #eee;
-}
-
-.header {
-  padding: 10px;
-
-  background: #e24b31;
-}
-
-.tomster {
   display: block;
-  margin: 0 auto;
-}
 
-.masthead {
-  margin: 0;
-
-  font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  text-align: center;
-  letter-spacing: -1px;
-
-  color: white;
-}
-
-.centered {
-  text-align: center;
-}
-
-.well {
-  border: 1px solid #e5b5a1;
-  padding: 12px 16px;
-
-  background: #faf4f1;
-  color: #e24b31;
-}
-
-.well p:first-child { margin-top: 0 }
-.well p:last-child { margin-bottom: 0 }
-
-.lead {
-  font-size: 1em;
-  font-weight: bold;
-}
-
-.img-responsive {
+  padding: 12px 120px 12px 12px;
+  margin: 24px 0;
   width: 100%;
-  height: auto;
+
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75em;
+  line-height: 1.5em;
+
+  border: 1px solid #cccccc;
 }
+
+p { margin: 24px 0; }
+
+.accordion-header {
+  display: block;
+  overflow: hidden;
+  position: relative;
+
+  padding: 0 24px;
+
+  text-decoration: none;
+
+  background: #e6e6e6;
+  color: #333333;
+  cursor: pointer;
+}
+
+.accordion-header.even { background: #f0f0f0; }
+
+.accordion-icon {
+  position: absolute;
+  right: 24px;
+
+  text-decoration: none;
+  line-height: 1.5em;
+}
+
+.banner-logo {
+  margin: 0 auto;
+  width: 224px;
+}
+
+.button {
+  -webkit-font-smoothing: antialiased;
+
+  display: inline-block;
+
+  padding: 12px 24px;
+
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75em;
+  font-weight: 700;
+  line-height: 1.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  background: #e24b31;
+  border: 0;
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.column {
+  box-sizing: border-box;
+
+  float: left;
+
+  margin: -24px 0;
+  padding: 0 12px;
+  width: 100%;
+}
+
+.column+.column { margin-top: 0; }
 
 .container {
-  position: relative;
-  margin: 0 auto;
-  max-width: 960px;
+  margin: 48px auto;
+  max-width: 49em;
+  padding: 0 24px;
 }
 
-.center-block {
-  display: block;
-  margin: 0 auto;
+.event-date {
+  font-size: 1em;
+  line-height: 1.5em;
 }
 
-.email-group {
-  position: relative;
-  margin: 1em auto;
-}
-.email-group input {
-  box-sizing: border-box;
+.follow-links {
   margin: 0;
-  padding-right: 100px;
-  width: 100%;
-}
-.email-group button {
-  position: absolute;
-  top: 0; right: 0;
-  margin: 0;
+  padding: 0;
+
+  list-style: none;
 }
 
-.block {
-  display: block;
+.intro strong {
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+.next-date {
+  margin-top: -24px;
+
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+.previous-events {
+  margin: 24px 0;
+  padding: 0;
+
+  text-align: left;
+
+  list-style: none;
+}
+
+.talks {
+  margin: 24px -12px;
+  padding: 0;
+
+  text-align: center;
+
+  list-style: none;
 }
 
 .row {
-  display: block;
-}
-.row:after {
-  content: '';
-  display: block;
-  clear: both;
+  overflow: hidden;
+
+  margin: 24px -12px;
 }
 
-.profile {
-  margin-bottom: 3em;
+.speaker-twitter { margin: -24px 0 -6px 0; }
+
+@media (min-width: 384px) {
+  .talks { text-align: left; }
+
+  .talks-nested-column { width: 50%; }
+  .talks-nested-column:nth-child(2n+1) { clear: left; }
+  .talks-nested-column+.talks-nested-column { margin-top: -24px; }
 }
 
-@media (min-width: 768px) {
-  .profile {
-    margin-bottom: 1em;
+@media (min-width: 512px) {
+  h1,
+  h2,
+  h3 {
+    font-size: 1.5em;
+    line-height: 1.5em;
   }
-  .profile:after {
-    content: '';
-    display: block;
-    clear: both;
+
+  html { font-size: 87.5%; }
+
+  .follow-speak-column { width: 50%; }
+  .follow-speak-column:nth-child(2n+1) { clear: left; }
+  .follow-speak-column+.follow-speak-column { margin-top: -24px; }
+  .follow-speak-rule { display: none; }
+
+  .intro strong {
+    font-size: 1.5em;
+    line-height: 1.5em;
   }
-  .profile .image {
-    float: left;
-    width: 50%;
+
+  .next-column { width: 50%; }
+  .next-column:nth-child(3n+1) { clear: left; }
+  .next-column+.next-column { margin-top: -24px; }
+  .next-rule { display: none; }
+
+  .next-date {
+    font-size: 1.5em;
+    line-height: 1.5em;
   }
-  .profile img {
-    display: block;
-    margin: 0;
-  }
-  .profile .text {
-    box-sizing: border-box;
-    float: left;
-    padding: 1em;
-    width: 50%;
-  }
-  .profile h3 {
-    margin-top: -1em;
-  }
+
+  .talks { text-align: center; }
+
+  .talks-column { width: 33.3333%; }
+  .talks-nested-column:nth-child(3n+1) { clear: left; }
+  .talks-column+.talks-column { margin-top: -24px; }
+
+  .talks-nested-column { width: 100%; }
+  .talks-nested-column:nth-child(2n+1) { clear: none; }
+  .talks-nested-column+.talks-nested-column { margin-top: 0; }
+}
+
+@media (min-width: 752px) {
+  html { font-size: 100%; }
 }

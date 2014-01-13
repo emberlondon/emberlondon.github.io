@@ -1,14 +1,17 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="/css/syntax.css">
+    <meta name="viewport" content="width=device-width, user-scalable=yes">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/main.css">
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <title>{{ site.name }} | {{ page.title }}</title>
   </head>
   <body>
-    {{content}}
+    {{ content }}
+
+    <script src="js/app.js"></script>
   </body>
 </html>

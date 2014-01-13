@@ -1,0 +1,44 @@
+<section class="next">
+  <h2>Next Event:</h2>
+  <p class="next-date">{{ site.data.next-event.date }}, {{ site.data.next-event.time }}</p>
+  <p><a class="button" href="http://www.meetup.com/London-Emberjs-User-Group/">RSVP on Meetup</a></p>
+
+  <hr>
+
+  <div class="row">
+    <div class="column next-column">
+      <h3>The Venue</h3>
+      <p>{{ site.data.next-event.location }}</p>
+      <p><a href="http://goo.gl/ze6k5s">View on Google Maps</a></p>
+      <p>Kindly sponsored by <a href="http://www.sapient.com/en-gb/sapientnitro.html">SapientNitro</a></p>
+
+      <hr class="next-rule">
+    </div>
+
+    <div class="column next-column">
+      <h3>What to Expect</h3>
+      <p>In-depth talks and discussion with other developers building ambitious web applications. Our focus is Ember.js, but we strive to cover other great technologies such as Angular, Knockout and more.</p>
+      <p>After the talks we’ll head to pub to continue the conversation.</p>
+    </div>
+  </div>
+
+  <hr>
+
+  <h3>Speakers</h3>
+  <ul class="row talks">
+    {% for talk in site.data.next-event.talks %}
+      <li class="column talks-column">
+        <div class="row">
+          <div class="column talks-nested-column">
+            <img src="{{ talk.image }}">
+          </div>
+          <div class="column talks-nested-column">
+            <h4>{{ talk.speaker_name }}</h4>
+            <p class="speaker-twitter"><a href="http://www.twitter.com/{{ talk.speaker_twitter }}">{{ talk.speaker_twitter }}</a></p>
+            <p>{{ talk.info }}</p>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
