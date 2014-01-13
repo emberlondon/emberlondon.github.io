@@ -12,12 +12,15 @@
             <li class="column talks-column">
               <div class="row">
                 <div class="column talks-nested-column">
-                  <img src="{{ talk.image }}">
+                  <a href="{{ talk.video_url }}">
+                    <img src="{{ talk.image }}">
+                  </a>
                 </div>
                 <div class="column talks-nested-column">
                   <h4>{{ talk.speaker_name }}</h4>
                   <p class="speaker-twitter"><a href="http://www.twitter.com/{{ talk.speaker_twitter }}">{{ talk.speaker_twitter }}</a></p>
                   <p>{{ talk.info }}</p>
+                  <p><a href="{{ talk.video_url }}">Watch on Vimeo</a></p>
                 </div>
               </div>
             </li>
