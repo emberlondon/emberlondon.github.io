@@ -8,10 +8,12 @@
       speaker_twitter: "@matthewrudy"
       info: "Ember and OAuth — a short tour of OAuth on the client side."
       image: images/speakers/matthew-2.jpg
+      video_url: https://vimeo.com/84385535
     - speaker_name: Andy Appleton
       speaker_twitter: "@appltn"
       info: Modular UI with Angular (and Ember).
       image: images/speakers/andy.jpg
+      video_url: https://vimeo.com/84355689
 - date: 12 December 2013
   talks:
     - speaker_name: Kasper Tidemann
