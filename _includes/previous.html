@@ -20,7 +20,11 @@
                   <h4>{{ talk.speaker_name }}</h4>
                   <p class="speaker-twitter"><a href="http://www.twitter.com/{{ talk.speaker_twitter }}">{{ talk.speaker_twitter }}</a></p>
                   <p>{{ talk.info }}</p>
-                  <p><a href="{{ talk.video_url }}">Watch on Vimeo</a></p>
+                  {% if talk.video_url %}
+                    <p><a href="{{ talk.video_url }}">Watch on Vimeo</a></p>
+                  {% else %}
+                    <p><strong>Video coming soon.</strong></p>
+                  {% endif %}
                 </div>
               </div>
             </li>
