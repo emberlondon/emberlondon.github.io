@@ -4,6 +4,7 @@
       speaker_twitter: "@bengillies"
       info: "Ember is designed for building large scale apps, but for truly large scale, with large amounts amounts of data, we need something extra: Threads."
       image: images/speakers/ben.jpg
+      video_url: https://vimeo.com/84578340
     - speaker_name: Matthew Rudy Jacobs
       speaker_twitter: "@matthewrudy"
       info: "Ember and OAuth — a short tour of OAuth on the client side."
