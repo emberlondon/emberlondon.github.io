@@ -12,5 +12,5 @@ talks:
     image: images/speakers/crofty.jpg
   - speaker_name: Ken Snyder
     speaker_twitter: '@yankeeinlondon'
-    info: Managing your Ember Models
+    info: Iterating Through Ember Data
     image: images/speakers/ken.jpg
