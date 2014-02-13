@@ -1,65 +1,65 @@
 - date: 12 February 2014
   talks:
     - speaker_name: Szymon Witamborski
-      speaker_twitter: '@szywon'
+      speaker_twitter: 'szywon'
       info: Immutable data trees with Javascript
       image: images/speakers/szymon.jpg
     - speaker_name: James Croft
-      speaker_twitter: '@james_croft'
+      speaker_twitter: 'james_croft'
       info: Integrating Ember into existing sites
       image: images/speakers/crofty.jpg
     - speaker_name: Ken Snyder
-      speaker_twitter: '@yankeeinlondon'
+      speaker_twitter: 'yankeeinlondon'
       info: Iterating Through Ember Data
       image: images/speakers/ken.jpg
 - date: 15 January 2014
   talks:
     - speaker_name: Ben Gillies
-      speaker_twitter: "@bengillies"
+      speaker_twitter: "bengillies"
       info: "Ember is designed for building large scale apps, but for truly large scale, with large amounts amounts of data, we need something extra: Threads."
       image: images/speakers/ben.jpg
       video_url: https://vimeo.com/84578340
     - speaker_name: Matthew Rudy Jacobs
-      speaker_twitter: "@matthewrudy"
+      speaker_twitter: "matthewrudy"
       info: "Ember and OAuth — a short tour of OAuth on the client side."
       image: images/speakers/matthew-2.jpg
       video_url: https://vimeo.com/84385535
     - speaker_name: Andy Appleton
-      speaker_twitter: "@appltn"
+      speaker_twitter: "appltn"
       info: Modular UI with Angular (and Ember).
       image: images/speakers/andy.jpg
       video_url: https://vimeo.com/84355689
 - date: 12 December 2013
   talks:
     - speaker_name: Kasper Tidemann
-      speaker_twitter: "@kaspertidemann"
+      speaker_twitter: "kaspertidemann"
       info: Getting ambitious with offline support in Ember.js apps and beyond.
       image: images/speakers/kasper.jpg
       video_url: "https://vimeo.com/81960884"
     - speaker_name: Richard Livsey
-      speaker_twitter: "@rlivsey"
+      speaker_twitter: "rlivsey"
       info: Introducing <a href="https://github.com/rlivsey/fireplace">Fireplace</a>, a sophisticated open source adapter for Firebase and Ember.js.</p>
       image: images/speakers/richard.jpg
       video_url: "https://vimeo.com/81960885"
     - speaker_name: Jamie White
-      speaker_twitter: "@jgwhite"
+      speaker_twitter: "jgwhite"
       info: Figuring out where Ember.js fits into your integration testing strategy.
       image: images/speakers/jamie.jpg
       video_url: "https://vimeo.com/81988531"
 - date: 13 November 2013
   talks:
     - speaker_name: Alex Speller
-      speaker_twitter: "@alexspeller"
+      speaker_twitter: "alexspeller"
       info: Query params support in core Ember.js.
       image: images/speakers/alex.jpg
       video_url: "https://vimeo.com/79415579"
     - speaker_name: Chris Gammie
-      speaker_twitter: "@lindyhopchris"
+      speaker_twitter: "lindyhopchris"
       info: "Dance Cloud: an event booking application for dance schools, built with Ember.js."
       image: images/speakers/chris.jpg
       video_url: "https://vimeo.com/79446163"
     - speaker_name: Matthew Rudy Jacobs
-      speaker_twitter: "@matthewrudy"
+      speaker_twitter: "matthewrudy"
       info: Recreating functionality of Meteor using Ember.js and Firebase.
       image: images/speakers/matthew.jpg
       video_url: "https://vimeo.com/79471076"
