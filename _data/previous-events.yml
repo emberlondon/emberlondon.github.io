@@ -1,3 +1,17 @@
+- date: 12 February 2014
+  talks:
+    - speaker_name: Szymon Witamborski
+      speaker_twitter: '@szywon'
+      info: Immutable data trees with Javascript
+      image: images/speakers/szymon.jpg
+    - speaker_name: James Croft
+      speaker_twitter: '@james_croft'
+      info: Integrating Ember into existing sites
+      image: images/speakers/crofty.jpg
+    - speaker_name: Ken Snyder
+      speaker_twitter: '@yankeeinlondon'
+      info: Iterating Through Ember Data
+      image: images/speakers/ken.jpg
 - date: 15 January 2014
   talks:
     - speaker_name: Ben Gillies
