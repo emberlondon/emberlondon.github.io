@@ -4,10 +4,12 @@
       speaker_twitter: 'szywon'
       info: Immutable data trees with Javascript
       image: images/speakers/szymon.jpg
+      video_url: https://vimeo.com/86694423
     - speaker_name: James Croft
       speaker_twitter: 'james_croft'
       info: Integrating Ember into existing sites
       image: images/speakers/crofty.jpg
+      video_url: https://vimeo.com/86698279
     - speaker_name: Ken Snyder
       speaker_twitter: 'yankeeinlondon'
       info: Iterating Through Ember Data
