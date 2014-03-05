@@ -35,8 +35,14 @@
           </div>
           <div class="column talks-nested-column">
             <h4>{{ talk.speaker_name }}</h4>
-            <p class="speaker-twitter"><a href="http://www.twitter.com/{{ talk.speaker_twitter }}">@{{ talk.speaker_twitter }}</a></p>
-            <p>{{ talk.info }}</p>
+            {% if talk.speaker_twitter %}
+              <p class="speaker-twitter"><a href="http://www.twitter.com/{{ talk.speaker_twitter }}">@{{ talk.speaker_twitter }}</a></p>
+            {% endif %}
+            {% if talk.info %}
+              <p>{{ talk.info }}</p>
+            {% else %}
+              <p>&nbsp;</p>
+            {% endif %}
           </div>
         </div>
       </li>
