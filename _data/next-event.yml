@@ -8,7 +8,7 @@ talks:
     image: images/speakers/tom.jpg
   - speaker_name: Jamie White
     speaker_twitter: jgwhite
-    info: Using Persistent Data Structures in Ember.js
+    info: Using Persistent Data Structures with Ember.js
     image: images/speakers/jamie-2.jpg
   - speaker_name: Panel Discussion
     info: On the topic of Ember Components
