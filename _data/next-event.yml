@@ -1,15 +1,3 @@
-date: Wednesday, 12 March 2014
+date: Wednesday, 16 April 2014
 time: 6.30pm – 9.30pm
 location: Eden House, 8 Spital Square, London E1 6DU
-talks:
-  - speaker_name: Tom Cowell
-    speaker_twitter: hairballopolis
-    info: Architecting for the Enterprise
-    image: images/speakers/tom.jpg
-  - speaker_name: Jamie White
-    speaker_twitter: jgwhite
-    info: Using Persistent Data Structures with Ember.js
-    image: images/speakers/jamie-2.jpg
-  - speaker_name: Panel Discussion
-    info: On the topic of Ember Components
-    image: images/speakers/panel.jpg
