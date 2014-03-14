@@ -9,6 +9,7 @@
       speaker_twitter: jgwhite
       info: Using Persistent Data Structures with Ember.js
       image: images/speakers/jamie-2.jpg
+      video_url: https://vimeo.com/89089876
     - speaker_name: Panel Discussion
       info: On the topic of Ember Components
       image: images/speakers/panel.jpg
