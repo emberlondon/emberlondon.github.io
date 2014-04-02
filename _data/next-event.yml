@@ -6,7 +6,9 @@ talks:
     speaker_twitter: pauldoerwald
     info: 'Making the pieces fit: Learning Ember.js'
     image: images/speakers/paul.jpg
-  - speaker_name: Speaker TBA
-    image: images/speakers/tba.png
-  - speaker_name: Speaker TBA
-    image: images/speakers/tba.png
+  - speaker_name: State of Ember.js
+    info: Round-up of the latest Ember.js news, presented by the Ember London team
+    image: images/speakers/state-of-ember.png
+  - speaker_name: Third Speaker TBC
+    image: images/speakers/tbc.png
+    info: If you’re insterested in speaking <a href="mailto:talk@emberlondon.com">get in touch</a>!
