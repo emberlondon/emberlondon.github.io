@@ -11,7 +11,7 @@
       image: images/speakers/jamie-2.jpg
       video_url: https://vimeo.com/89089876
     - speaker_name: Panel Discussion
-      info: On the topic of Ember Components
+      info: <a href="http://twitter.com/yankeeinlondon">Ken Snyder</a> leads <a href="http://twitter.com/james_croft">James Croft</a>, <a href="http://twitter.com/lindyhopchris">Christopher Gammie</a> and <a href="http://twitter.com/alexspeller">Alex Speller</a> through a discussion of Ember’s views and components.
       image: images/speakers/panel.jpg
       video_url: https://vimeo.com/90563524
 - date: 12 February 2014
