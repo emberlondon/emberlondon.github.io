@@ -1,14 +1,3 @@
-date: Wednesday, 16 April 2014
+date: Wednesday, 21 May 2014
 time: 6.30pm – 9.30pm
 location: Eden House, 8 Spital Square, London E1 6DU
-talks:
-  - speaker_name: Paul Doerwald
-    speaker_twitter: pauldoerwald
-    info: 'Making the pieces fit: Learning Ember.js'
-    image: images/speakers/paul.jpg
-  - speaker_name: State of Ember.js
-    info: Round-up of the latest Ember.js news, presented by the Ember London team
-    image: images/speakers/state-of-ember.png
-  - speaker_name: Third Speaker TBC
-    image: images/speakers/tbc.png
-    info: If you’re insterested in speaking <a href="mailto:talk@emberlondon.com">get in touch</a>!

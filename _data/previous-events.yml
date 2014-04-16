@@ -1,3 +1,12 @@
+- date: 16 April 2014
+  talks:
+  - speaker_name: Paul Doerwald
+    speaker_twitter: pauldoerwald
+    info: 'Making the pieces fit: Learning Ember.js'
+    image: images/speakers/paul.jpg
+  - speaker_name: State of Ember.js
+    info: Round-up of the latest Ember.js news, presented by the Ember London team
+    image: images/speakers/state-of-ember.png
 - date: 12 March 2014
   talks:
     - speaker_name: Tom Cowell
