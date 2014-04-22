@@ -8,6 +8,7 @@
     - speaker_name: State of Ember.js
       info: 'Round-up of the latest Ember.js news, with <a href="https://twitter.com/matteodepalo">Matteo Depalo</a> and <a href="https://twitter.com/jgwhite">Jamie White</a>'
       image: images/speakers/state-of-ember.jpg
+      video_url: https://vimeo.com/92531675
 - date: 12 March 2014
   talks:
     - speaker_name: Tom Cowell
