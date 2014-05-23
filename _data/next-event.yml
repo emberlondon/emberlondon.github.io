@@ -1,16 +1,3 @@
-date: Wednesday, 21 May 2014
+date: Wednesday, 11 June 2014
 time: 6.30pm – 9.30pm
 location: Eden House, 8 Spital Square, London E1 6DU
-talks:
-  - speaker_name: Jo Liss
-    speaker_twitter: jo_liss
-    info: 'Modern build workflows with Broccoli'
-    image: images/speakers/jo.jpg
-  - speaker_name: Matteo Depalo
-    speaker_twitter: matteodepalo
-    info: 'Websockets and Ember Data'
-    image: images/speakers/matteo.jpg
-  - speaker_name: Joan Mira
-    speaker_twitter: gazpachu
-    info: 'Box2D with Javascript: a practical introduction to 2d physics on the web'
-    image: images/speakers/pach.jpg
