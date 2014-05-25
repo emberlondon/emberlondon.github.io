@@ -4,10 +4,12 @@
     speaker_twitter: jo_liss
     info: 'Modern build workflows with Broccoli'
     image: images/speakers/jo.jpg
+    video_url: https://vimeo.com/96431267
   - speaker_name: Matteo Depalo
     speaker_twitter: matteodepalo
     info: 'Websockets and Ember Data'
     image: images/speakers/matteo.jpg
+    video_url: https://vimeo.com/96427738
   - speaker_name: Joan Mira
     speaker_twitter: gazpachu
     info: 'Box2D with Javascript: a practical introduction to 2d physics on the web'
