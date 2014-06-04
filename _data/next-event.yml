@@ -1,3 +1,12 @@
 date: Wednesday, 11 June 2014
 time: 6.30pm – 9.30pm
 location: Eden House, 8 Spital Square, London E1 6DU
+talks:
+  - speaker_name: Alex Speller
+    speaker_twitter: alexspeller
+    info: 'Introducing <a href="http://emberkit.com"><b>Emberkit</b></a>.<br><br>An Ember.js and Rails code kit to get your Software as a Service application up and running in no time at all.'
+    image: images/speakers/alex.jpg
+  - speaker_name: 'Ember Catch-up'
+    speaker_twitter: emberlondon
+    info: 'Round-up of the latest Ember.js community news'
+    image: images/speakers/canary.png
