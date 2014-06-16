@@ -4,6 +4,7 @@
     speaker_twitter: alexspeller
     info: 'Introducing <a href="http://emberkit.com"><b>Emberkit</b></a>.<br><br>An Ember.js and Rails code kit to get your Software as a Service application up and running in no time at all.'
     image: images/speakers/alex-2.jpg
+    video_url: https://vimeo.com/98276162/
 - date: 21 May 2014
   talks:
   - speaker_name: Jo Liss
