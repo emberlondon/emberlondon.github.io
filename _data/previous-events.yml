@@ -1,3 +1,17 @@
+- date: 17 July 2014
+  talks:
+  - speaker_name: Tom Close
+    speaker_twitter: tomclse
+    info: 'A closer look at computed properties'
+    image: images/speakers/tom-close.jpg
+  - speaker_name: 'Bryan Crotaz, Silver Curve'
+    speaker_twitter: BryanCrotaz
+    info: 'Sometimes you don’t have control of the server when developing a web app. We show how we’ve used Ember and Ember Data to build a new UI for an existing content management platform with distinctly non-standard APIs.'
+    image: images/speakers/bryan.jpg
+  - speaker_name: Miles Tinsley
+    speaker_twitter: milestinsley
+    info: 'lessons learnt migrating a complex app to ember.js'
+    image: images/speakers/miles.jpg
 - date: 11 June 2014
   talks:
   - speaker_name: Alex Speller
