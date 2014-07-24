@@ -1,3 +1,15 @@
 date: Thursday, 14 August 2014
 time: 6.30pm – 9.30pm
 location: Eden House, 8 Spital Square, London E1 6DU
+talks:
+  - speaker_name: Joachim Haagen Skeie
+    speaker_twitter: joachimhs
+    info: 'Ember.js in Action'
+    image: images/speakers/joachim.jpg
+  - speaker_name: 'Markus Padourek'
+    speaker_twitter: TalkTweetOrDie
+    info: 'Using Ember with Sails.js'
+    image: images/speakers/markus.jpg
+  - speaker_name: TBC
+    info: 'Would you like to talk?<br><a href="mailto:talk@emberlondon.com">Get in touch</a>'
+    image: images/speakers/tbc.png
