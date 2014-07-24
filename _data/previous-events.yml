@@ -2,16 +2,19 @@
   talks:
   - speaker_name: Tom Close
     speaker_twitter: tomclse
-    info: 'A closer look at computed properties'
+    info: 'A Closer Look at Computed Properties'
     image: images/speakers/tom-close.jpg
-  - speaker_name: 'Bryan Crotaz, Silver Curve'
+    video_url: https://vimeo.com/101568056
+  - speaker_name: 'Bryan Crotaz & Andy Pye'
     speaker_twitter: BryanCrotaz
-    info: 'Sometimes you don’t have control of the server when developing a web app. We show how we’ve used Ember and Ember Data to build a new UI for an existing content management platform with distinctly non-standard APIs.'
+    info: 'Using Ember Data with a Non-standard Backend'
     image: images/speakers/bryan.jpg
+    video_url: https://vimeo.com/101579258
   - speaker_name: Miles Tinsley
     speaker_twitter: milestinsley
-    info: 'lessons learnt migrating a complex app to ember.js'
+    info: 'Migrating Complicated Apps to Ember.js'
     image: images/speakers/miles.jpg
+    video_url: https://vimeo.com/101568057
 - date: 11 June 2014
   talks:
   - speaker_name: Alex Speller
