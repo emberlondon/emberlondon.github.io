@@ -1,6 +1,6 @@
 # Ember London
 
-Website for the London Ember.js User Group.
+Website for Ember London
 
 ## Getting Started
 
