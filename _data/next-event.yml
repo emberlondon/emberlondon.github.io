@@ -10,6 +10,7 @@ talks:
     speaker_twitter: TalkTweetOrDie
     info: 'Using Ember with Sails.js'
     image: images/speakers/markus.jpg
-  - speaker_name: TBC
-    info: 'Would you like to talk?<br><a href="mailto:talk@emberlondon.com">Get in touch</a>'
-    image: images/speakers/tbc.png
+  - speaker_name: Thomas Marshall
+    speaker_twitter: tmrshl
+    info: 'Playing with Ember.js on<br><a href="http://www.letsmakesomegreatart.com/">Let’s Make Some Great Art</a>'
+    image: images/speakers/tmrshl.jpg
