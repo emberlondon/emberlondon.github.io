@@ -4,7 +4,7 @@
   <ul class="previous-events accordion">
     {% for event in site.data.previous-events %}
       <li>
-        <a class="accordion-header {% cycle 'odd', 'even' %}" href="#">
+        <a class="accordion-header {% cycle 'odd', 'even' %}" href="#" title="Click for videos from {{ event.date }}">
           <h3 class="event-date">{{ event.date }} <i class="fa fa-minus-circle accordion-icon"></i></h3>
         </a>
         <ul class="row talks accordion-content">
