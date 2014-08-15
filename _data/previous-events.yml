@@ -1,3 +1,17 @@
+- date: 14 August 2014
+  talks:
+  - speaker_name: Joachim Haagen Skeie
+    speaker_twitter: joachimhs
+    info: 'Ember.js in Action'
+    image: images/speakers/joachim.jpg
+  - speaker_name: 'Markus Padourek'
+    speaker_twitter: TalkTweetOrDie
+    info: 'Using Ember with Sails.js'
+    image: images/speakers/markus.jpg
+  - speaker_name: Thomas Marshall
+    speaker_twitter: tmrshl
+    info: 'Playing with Ember.js on<br><a href="http://www.letsmakesomegreatart.com/">Let’s Make Some Great Art</a>'
+    image: images/speakers/tmrshl.jpg
 - date: 17 July 2014
   talks:
   - speaker_name: Tom Close
