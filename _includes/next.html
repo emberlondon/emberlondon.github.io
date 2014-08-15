@@ -8,8 +8,8 @@
   <div class="row">
     <div class="column next-column">
       <h3>The Venue</h3>
-      <div class="map-container">
-        <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDbdA24xXumDDlD6MHP0CfZVY0tCB7S5QU&q={{site.data.next-event.location | uri_escape}}&zoom=15" height="100%" width="100%" frameborder="0" class="map"></iframe>  
+      <div class="map-container" role="presentation" aria-hidden="true">
+        <iframe role="presentation" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDbdA24xXumDDlD6MHP0CfZVY0tCB7S5QU&q={{site.data.next-event.location | uri_escape}}&zoom=15" height="100%" width="100%" frameborder="0" class="map"></iframe>  
       </div>
       <p class="map-link"><a href="http://maps.google.com/?q={{site.data.next-event.location | uri_escape}}">{{site.data.next-event.location}}</a></p>
       <p>Kindly sponsored by <a href="http://www.sapient.com/en-gb/sapientnitro.html">SapientNitro</a></p>
