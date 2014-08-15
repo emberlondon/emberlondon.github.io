@@ -6,14 +6,16 @@ title: The London Ember.js User Group
 {% include banner.html %}
 
 <div class="container">
-  {% include intro.html %}
-  <hr>
-  {% include next.html %}
-  <hr>
-  {% include previous.html %}
-  <hr>
+  <main role="main">
+    {% include intro.html %}
+    <hr>
+    {% include next.html %}
+    <hr>
+    {% include previous.html %}
+    <hr>
+  </main>
 
-  <div class="row">
+  <footer class="row" role="contentinfo">
     <div class="column follow-speak-column">
         {% include speak.html %}
 
@@ -23,5 +25,5 @@ title: The London Ember.js User Group
     <div class="column follow-speak-column">
       {% include follow.html %}
     </div>
-  </div>
+  </footer>
 </div>
