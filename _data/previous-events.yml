@@ -4,14 +4,17 @@
     speaker_twitter: joachimhs
     info: 'Ember.js in Action'
     image: images/speakers/joachim.jpg
+    video_url: https://vimeo.com/103702784
   - speaker_name: 'Markus Padourek'
     speaker_twitter: TalkTweetOrDie
     info: 'Using Ember with Sails.js'
     image: images/speakers/markus.jpg
+    video_url: https://vimeo.com/103711300
   - speaker_name: Thomas Marshall
     speaker_twitter: tmrshl
     info: 'Playing with Ember.js on<br><a href="http://www.letsmakesomegreatart.com/">Let’s Make Some Great Art</a>'
     image: images/speakers/tmrshl.jpg
+    video_url: https://vimeo.com/103711301
 - date: 17 July 2014
   talks:
   - speaker_name: Tom Close
