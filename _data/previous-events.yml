@@ -1,3 +1,20 @@
+- date: 11 September 2014
+  talks:
+  - speaker_name: Martin Pratt & Mike Hayden
+    speaker_twitter: everywheretweet
+    info: '<a href="http://bradfrostweb.com/blog/post/atomic-web-design/">Atomic Design</a> & Ember Components'
+    image: images/speakers/atomic.png
+    video_url: https://vimeo.com/106261416
+  - speaker_name: Stuart Harris
+    speaker_twitter: stuartharris
+    info: 'An Introduction to <a href="http://facebook.github.io/react/">React</a>.<br>Stuart is lead organiser of the <a href="http://www.meetup.com/London-React-User-Group/">London React user Group</a>'
+    image: images/speakers/react.png
+    video_url: https://vimeo.com/106261417
+  - speaker_name: Despo Pentara
+    speaker_twitter: despo
+    info: '<a href="http://codebar.io/">Codebar</a>: bridging the diversity gap in the tech industry'
+    image: images/speakers/codebar.png
+    video_url: https://vimeo.com/106266516
 - date: 14 August 2014
   talks:
   - speaker_name: Joachim Haagen Skeie

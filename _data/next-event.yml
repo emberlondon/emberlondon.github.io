@@ -1,17 +1,4 @@
-date: Thursday, 11 September 2014
+date: Thursday, 16 October 2014
 time: 6.30pm – 9.30pm
-datetime_aria: Thursday, eleventh of September, two-thousand and fourteen, six thirty pm to nine thirty pm.
+datetime_aria: Thursday, sixteenth of October, two-thousand and fourteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
-talks:
-  - speaker_name: Martin Pratt & Mike Hayden
-    speaker_twitter: everywheretweet
-    info: '<a href="http://bradfrostweb.com/blog/post/atomic-web-design/">Atomic Design</a> & Ember Components'
-    image: images/speakers/atomic.png
-  - speaker_name: Stuart Harris
-    speaker_twitter: stuartharris
-    info: 'An Introduction to <a href="http://facebook.github.io/react/">React</a>.<br>Stuart is lead organiser of the <a href="http://www.meetup.com/London-React-User-Group/">London React user Group</a>'
-    image: images/speakers/react.png
-  - speaker_name: Despo Pentara
-    speaker_twitter: despo
-    info: '<a href="http://codebar.io/">Codebar</a>: bridging the diversity gap in the tech industry'
-    image: images/speakers/codebar.png
