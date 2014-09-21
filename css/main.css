@@ -79,8 +79,10 @@ p { margin: 24px 0; }
   overflow: hidden;
   position: relative;
 
-  padding: 0 24px;
+  padding: 24px;
 
+  font-size: 1em;
+  line-height: 1.5em;
   text-decoration: none;
 
   background: #e6e6e6;
@@ -137,14 +139,10 @@ p { margin: 24px 0; }
 .column+.column { margin-top: 0; }
 
 .container {
+  position: relative;
   margin: 48px auto;
   max-width: 49em;
   padding: 0 24px;
-}
-
-.event-date {
-  font-size: 1em;
-  line-height: 1.5em;
 }
 
 .follow-links {
@@ -210,7 +208,22 @@ p { margin: 24px 0; }
   margin: 24px -12px;
 }
 
+.speaker-name {
+  margin: 24px 0;
+
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.5em;
+}
 .speaker-twitter { margin: -24px 0 -6px 0; }
+
+.banner-title {
+  position: absolute;
+  left: 0; right: 0;
+  opacity: 0;
+
+  text-align: center;
+}
 
 @media (min-width: 384px) {
   .talks { text-align: left; }
