@@ -1,3 +1,17 @@
+- date: 16 October 2014
+  talks:
+  - speaker_name: Richard Livsey
+    speaker_twitter: rlivsey
+    info: Ember CLI Addons
+    image: images/speakers/rlivsey-2.jpg
+  - speaker_name: Thomas Cowell
+    speaker_twitter: thomcowell
+    info: Why everyone in your team secretly hates you
+    image: images/speakers/thomcowell-2.jpg
+  - speaker_name: Jamie White
+    speaker_twitter: jgwhite
+    info: Learning to think in Ember & React
+    image: images/speakers/jgwhite-2.jpg
 - date: 11 September 2014
   talks:
   - speaker_name: Martin Pratt & Mike Hayden

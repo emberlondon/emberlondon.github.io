@@ -1,17 +1,4 @@
-date: Thursday, 16 October 2014
+date: Thursday, 20 October 2014
 time: 6.30pm – 9.30pm
-datetime_aria: Thursday, sixteenth of October, two-thousand and fourteen, six thirty pm to nine thirty pm.
+datetime_aria: Thursday, twentieth of November, two-thousand and fourteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
-talks:
-  - speaker_name: Richard Livsey
-    speaker_twitter: rlivsey
-    info: Ember CLI Addons
-    image: images/speakers/rlivsey-2.jpg
-  - speaker_name: Thomas Cowell
-    speaker_twitter: thomcowell
-    info: Why everyone in your team secretly hates you
-    image: images/speakers/thomcowell-2.jpg
-  - speaker_name: Jamie White
-    speaker_twitter: jgwhite
-    info: Learning to think in Ember & React
-    image: images/speakers/jgwhite-2.jpg
