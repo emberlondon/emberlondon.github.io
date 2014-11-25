@@ -1,3 +1,19 @@
+- date: 20 November 2014
+  talks:
+  - speaker_name: Aaron Chambers
+    speaker_twitter: grandazz
+    info: Ember CLI Deploy
+    image: images/speakers/grandazz.jpg
+    video_url: https://vimeo.com/112787969
+  - speaker_name: Mike Hayden
+    info: Server side Pre-rendering Solutions
+    image: images/speakers/mike-hayden.jpg
+    video_url: https://vimeo.com/112788412
+  - speaker_name: Thom Langford
+    speaker_twitter: ThomLangford
+    info: 'Secure coding: win the project, save lives, and get the gal (or guy)'
+    image: images/speakers/thomlangford.jpg
+    video_url: https://vimeo.com/112791023
 - date: 16 October 2014
   talks:
   - speaker_name: Richard Livsey
