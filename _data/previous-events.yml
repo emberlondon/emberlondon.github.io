@@ -1,3 +1,14 @@
+- date: 8 January 2015
+  talks:
+  - speaker_name: Dialling it in
+    info: Our brand new Q&A format
+    image: images/dialling-it-in.jpg
+    video_url:
+  - speaker_name: Bryan Crotaz
+    speaker_twitter: BryanCrotaz
+    info: Architecting Ember in Production
+    image: images/speakers/bryancrotaz.jpg
+    video_url:
 - date: 20 November 2014
   talks:
   - speaker_name: Aaron Chambers
