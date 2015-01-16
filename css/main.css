@@ -47,13 +47,6 @@ hr {
 
 html { font-size: 100%; }
 
-img {
-  display: block;
-
-  margin: 24px 0;
-  max-width: 100%;
-}
-
 input[type="email"] {
   -webkit-font-smoothing: antialiased;
 
@@ -222,6 +215,13 @@ p { margin: 24px 0; }
   opacity: 0;
 
   text-align: center;
+}
+
+.speaker-img {
+  display: block;
+
+  margin: 24px 0;
+  max-width: 100%;
 }
 
 @media (min-width: 384px) {
