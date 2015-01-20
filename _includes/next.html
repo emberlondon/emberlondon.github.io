@@ -3,9 +3,11 @@
   <p class="next-date" aria-label="{{ site.data.next-event.datetime_aria }}">{{ site.data.next-event.date }}, {{ site.data.next-event.time }}</p>
   <p><a class="button" href="{{ site.data.next-event.url }}">RSVP on Meetup</a></p>
 
+  {% if site.data.next-project-night.date %}
   <h2>Next Project Night:</h2>
   <p class="next-date" aria-label="{{ site.data.next-project-night.datetime_aria }}">{{ site.data.next-project-night.date }}, {{ site.data.next-project-night.time }}</p>
   <p><a class="button" href="{{ site.data.next-project-night.url }}">RSVP on Meetup</a></p>
+  {% endif %}
 
   <hr>
 
