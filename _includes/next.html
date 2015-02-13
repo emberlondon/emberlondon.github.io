@@ -1,14 +1,44 @@
 <section class="next">
-  <h2>Next Meetup:</h2>
-  <p class="next-date" aria-label="{{ site.data.next-event.datetime_aria }}">{{ site.data.next-event.date }}, {{ site.data.next-event.time }}</p>
-  <p><a class="button" href="{{ site.data.next-event.url }}">RSVP on Meetup</a></p>
-
-  {% if site.data.next-event.talks %}
+  {% if site.data.next-project-night.date %}
+  <h2>Next Project Night:</h2>
+  <p class="next-date" aria-label="{{ site.data.next-project-night.datetime_aria }}">{{ site.data.next-project-night.date }}, {{ site.data.next-project-night.time }}</p>
+  <p><a class="button" href="{{ site.data.next-project-night.url }}">RSVP on Meetup</a></p>
   <hr>
+  <div class="row">
+    <div class="column next-column">
+      <h3>The Venue</h3>
+      <div class="map-container" role="presentation" aria-hidden="true">
+        <div class="map">{{site.data.next-project-night.location}}</div>
+      </div>
+      <p class="map-link"><a href="http://maps.google.com/?q={{site.data.next-project-night.location | uri_escape}}">{{site.data.next-project-night.location}}</a></p>
+      <p>Kindly sponsored by
+         <a href="http://withassociates.com">With Associates</a>,
+         <a href="http://54b.co.uk">54B</a> &amp;
+         <a href="https://raygun.io/">Raygun</a></p>
+      <hr class="next-rule">
+    </div>
 
+    <div class="column next-column">
+      <h3>What to Expect</h3>
+      <p><strong>BYOP (Bring Your Own Project)</strong></p>
+      <p>Project Nights are all about jumping in, getting help and giving back. Be that working on an upstream change to Ember itself or a side project using Ember. The sessions are informal, friendly and agenda-less.</p>
+      <p>Mix with your fellow Embereños and get hacking!</p>
+      <p>Refreshments provided by our awesome host(s) and sponsor(s).</p>
+      <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="http://confcodeofconduct.com/">code of conduct</a> for more detail.</p>
+    </div>
+  </div>
+  {% endif %}
+
+  {% if site.data.next-meetup.date %}
+  <hr>
+  <h2>Next Meetup:</h2>
+  <p class="next-date" aria-label="{{ site.data.next-meetup.datetime_aria }}">{{ site.data.next-meetup.date }}, {{ site.data.next-meetup.time }}</p>
+  <p><a class="button" href="{{ site.data.next-meetup.url }}">RSVP on Meetup</a></p>
+  {% if site.data.next-meetup.talks %}
+  <hr>
   <h3>Line-up</h3>
   <ul class="row talks">
-    {% for talk in site.data.next-event.talks %}
+    {% for talk in site.data.next-meetup.talks %}
       <li class="column talks-column">
         <div class="row">
           <div class="column talks-nested-column">
@@ -37,9 +67,9 @@
     <div class="column next-column">
       <h3>The Venue</h3>
       <div class="map-container" role="presentation" aria-hidden="true">
-        <div class="map"></div>
+        <div class="map">{{site.data.next-meetup.location}}</div>
       </div>
-      <p class="map-link"><a href="http://maps.google.com/?q={{site.data.next-event.location | uri_escape}}">{{site.data.next-event.location}}</a></p>
+      <p class="map-link"><a href="http://maps.google.com/?q={{site.data.next-meetup.location | uri_escape}}">{{site.data.next-meetup.location}}</a></p>
       <p>Kindly sponsored by <a href="http://www.sapient.com/en-gb/sapientnitro.html">SapientNitro</a></p>
       <hr class="next-rule">
     </div>
@@ -51,12 +81,5 @@
       <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="http://confcodeofconduct.com/">code of conduct</a> for more detail.</p>
     </div>
   </div>
-
-  {% if site.data.next-project-night.date %}
-  <hr>
-
-  <h2>Next Project Night:</h2>
-  <p class="next-date" aria-label="{{ site.data.next-project-night.datetime_aria }}">{{ site.data.next-project-night.date }}, {{ site.data.next-project-night.time }}</p>
-  <p><a class="button" href="{{ site.data.next-project-night.url }}">RSVP on Meetup</a></p>
   {% endif %}
 </section>
