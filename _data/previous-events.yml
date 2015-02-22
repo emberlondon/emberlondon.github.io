@@ -3,17 +3,17 @@
   - speaker_name: Nicky Thompson
     speaker_twitter: knotnicky
     info: How we made FutureLearn more accessible
-    image: images/speakers/knotnicky.png
+    image: images/speakers/knotnicky.jpg
     video_url: https://vimeo.com/119842870
   - speaker_name: Miguel Camba
     speaker_twitter: miguelcamba
     info: Mobile web apps. Are we there yet?
-    image: images/speakers/miguelcamba.png
+    image: images/speakers/miguelcamba.jpg
     video_url: https://vimeo.com/119847301
   - speaker_name: Robert Knight
     speaker_twitter: robknight_
     info: Components on the Web and Native apps
-    image: images/speakers/robknight.png
+    image: images/speakers/robknight.jpg
     video_url: https://vimeo.com/119864047
 - date: 8 January 2015
   talks:
