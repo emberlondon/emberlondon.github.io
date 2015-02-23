@@ -3,3 +3,16 @@ time: 6.30pm – 9.30pm
 datetime_aria: Thursday, twelth of March, two-thousand and fifteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
 url: "http://www.meetup.com/London-Emberjs-User-Group/events/218940841/"
+talks:
+  - speaker_name: Aaron Chambers
+    speaker_twitter: grandazz
+    info: What happens under the covers when you click a link in an Ember app
+    image: images/speakers/grandazz-2.jpg
+  - speaker_name: Nik Wakelin
+    speaker_twitter: nikz
+    info: "Hamsters on a Train: A small sample of what I’ve learned about using Ember on Rails"
+    image: images/speakers/nikz.jpg
+  - speaker_name: Peter O’Shaughnessy
+    speaker_twitter: poshaughnessy
+    info: "2020: Looking Ahead To The Future of Web Development"
+    image: images/speakers/poshaughnessy.jpg

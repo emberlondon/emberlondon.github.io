@@ -1,36 +1,5 @@
 <section class="next">
-  {% if site.data.next-project-night.date %}
-  <h2>Next Project Night:</h2>
-  <p class="next-date" aria-label="{{ site.data.next-project-night.datetime_aria }}">{{ site.data.next-project-night.date }}, {{ site.data.next-project-night.time }}</p>
-  <p><a class="button" href="{{ site.data.next-project-night.url }}">RSVP on Meetup</a></p>
-  <hr>
-  <div class="row">
-    <div class="column next-column">
-      <h3>The Venue</h3>
-      <div class="map-container" role="presentation" aria-hidden="true">
-        <div class="map">{{site.data.next-project-night.location}}</div>
-      </div>
-      <p class="map-link"><a href="http://maps.google.com/?q={{site.data.next-project-night.location | uri_escape}}">{{site.data.next-project-night.location}}</a></p>
-      <p>Kindly sponsored by
-         <a href="http://withassociates.com">With Associates</a>,
-         <a href="http://54b.co.uk">54B</a> &amp;
-         <a href="https://raygun.io/">Raygun</a></p>
-      <hr class="next-rule">
-    </div>
-
-    <div class="column next-column">
-      <h3>What to Expect</h3>
-      <p><strong>BYOP (Bring Your Own Project)</strong></p>
-      <p>Project Nights are all about jumping in, getting help and giving back. Be that working on an upstream change to Ember itself or a side project using Ember. The sessions are informal, friendly and agenda-less.</p>
-      <p>Mix with your fellow Embereños and get hacking!</p>
-      <p>Refreshments provided by our awesome host(s) and sponsor(s).</p>
-      <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="http://confcodeofconduct.com/">code of conduct</a> for more detail.</p>
-    </div>
-  </div>
-  {% endif %}
-
   {% if site.data.next-meetup.date %}
-  <hr>
   <h2>Next Meetup:</h2>
   <p class="next-date" aria-label="{{ site.data.next-meetup.datetime_aria }}">{{ site.data.next-meetup.date }}, {{ site.data.next-meetup.time }}</p>
   <p><a class="button" href="{{ site.data.next-meetup.url }}">RSVP on Meetup</a></p>
@@ -78,6 +47,37 @@
       <h3>What to Expect</h3>
       <p>In-depth talks and discussion with other developers building ambitious web applications. Our focus is Ember.js, but we strive to cover other great technologies such as Angular, Knockout and more.</p>
       <p>After the talks we’ll head to the pub to continue the conversation.</p>
+      <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="http://confcodeofconduct.com/">code of conduct</a> for more detail.</p>
+    </div>
+  </div>
+  {% endif %}
+
+  {% if site.data.next-project-night.date %}
+  <hr>
+  <h2>Next Project Night:</h2>
+  <p class="next-date" aria-label="{{ site.data.next-project-night.datetime_aria }}">{{ site.data.next-project-night.date }}, {{ site.data.next-project-night.time }}</p>
+  <p><a class="button" href="{{ site.data.next-project-night.url }}">RSVP on Meetup</a></p>
+  <hr>
+  <div class="row">
+    <div class="column next-column">
+      <h3>The Venue</h3>
+      <div class="map-container" role="presentation" aria-hidden="true">
+        <div class="map">{{site.data.next-project-night.location}}</div>
+      </div>
+      <p class="map-link"><a href="http://maps.google.com/?q={{site.data.next-project-night.location | uri_escape}}">{{site.data.next-project-night.location}}</a></p>
+      <p>Kindly sponsored by
+         <a href="http://withassociates.com">With Associates</a>,
+         <a href="http://54b.co.uk">54B</a> &amp;
+         <a href="https://raygun.io/">Raygun</a></p>
+      <hr class="next-rule">
+    </div>
+
+    <div class="column next-column">
+      <h3>What to Expect</h3>
+      <p><strong>BYOP (Bring Your Own Project)</strong></p>
+      <p>Project Nights are all about jumping in, getting help and giving back. Be that working on an upstream change to Ember itself or a side project using Ember. The sessions are informal, friendly and agenda-less.</p>
+      <p>Mix with your fellow Embereños and get hacking!</p>
+      <p>Refreshments provided by our awesome host(s) and sponsor(s).</p>
       <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="http://confcodeofconduct.com/">code of conduct</a> for more detail.</p>
     </div>
   </div>
