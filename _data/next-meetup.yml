@@ -6,7 +6,7 @@ url: "http://www.meetup.com/London-Emberjs-User-Group/events/218940841/"
 talks:
   - speaker_name: Aaron Chambers
     speaker_twitter: grandazz
-    info: What happens under the covers when you click a link in an Ember app
+    info: "Zelda: A {{link-to}} the past"
     image: images/speakers/grandazz-2.jpg
   - speaker_name: Nik Wakelin
     speaker_twitter: nikz
