@@ -1,3 +1,17 @@
+- date: 12 March 2015
+  talks:
+  - speaker_name: aaron chambers
+    speaker_twitter: grandazz
+    info: "zelda: a {{link-to}} the past"
+    image: images/speakers/grandazz-2.jpg
+  - speaker_name: nik wakelin
+    speaker_twitter: nikz
+    info: "hamsters on a train: a small sample of what i’ve learned about using ember on rails"
+    image: images/speakers/nikz.jpg
+  - speaker_name: peter o’shaughnessy
+    speaker_twitter: poshaughnessy
+    info: "2020: looking ahead to the future of web development"
+    image: images/speakers/poshaughnessy.jpg
 - date: 12 February 2015
   talks:
   - speaker_name: Nicky Thompson
