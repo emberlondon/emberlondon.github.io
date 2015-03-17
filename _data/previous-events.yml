@@ -4,14 +4,17 @@
     speaker_twitter: grandazz
     info: "zelda: a {{link-to}} the past"
     image: images/speakers/grandazz-2.jpg
+    video_url: https://vimeo.com/122410608
   - speaker_name: nik wakelin
     speaker_twitter: nikz
     info: "hamsters on a train: a small sample of what i’ve learned about using ember on rails"
     image: images/speakers/nikz.jpg
+    video_url: https://vimeo.com/122410609
   - speaker_name: peter o’shaughnessy
     speaker_twitter: poshaughnessy
     info: "2020: looking ahead to the future of web development"
     image: images/speakers/poshaughnessy.jpg
+    video_url: https://vimeo.com/122421169
 - date: 12 February 2015
   talks:
   - speaker_name: Nicky Thompson
