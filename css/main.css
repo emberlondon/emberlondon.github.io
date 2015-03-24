@@ -276,3 +276,17 @@ p { margin: 24px 0; }
 @media (min-width: 752px) {
   html { font-size: 100%; }
 }
+
+.guidelines {
+  text-align: left;
+}
+
+.guidelines main {
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.guidelines ul {
+  padding-right: 2em;
+}
