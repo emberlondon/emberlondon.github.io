@@ -6,13 +6,16 @@ url: "http://www.meetup.com/London-Emberjs-User-Group/events/220323842/"
 talks:
   - speaker_name: Deepan Aiyasamy, Olivier Lesnicki & Andy Czerwinski
     speaker_twitter:
-    info: Our journey with the Tomster - British Gas
+    title: Our journey with the Tomster
+    subtitle: British Gas
     image: images/speakers/british-gas-team.jpg
   - speaker_name: Vaidas Mykolaitis
     speaker_twitter: codepreneurr
-    info: Hamsters on fire
+    title: Hamsters on fire
+    subtitle: Rapid prototyping with Ember & Firebase
     image: images/speakers/codepreneurr.jpg
   - speaker_name: Chris Game
-    speaker_twitter:
-    info: Routes manuva
+    speaker_twitter: TheGameOf79
+    title: Routes manuva
+    subtitle: Unpacking Ember’s routes and the router
     image: images/speakers/chrisgame.jpg

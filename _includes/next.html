@@ -48,11 +48,10 @@
             {% if talk.speaker_twitter %}
               <p class="speaker-twitter"><a href="http://www.twitter.com/{{ talk.speaker_twitter }}">@{{ talk.speaker_twitter }}</a></p>
             {% endif %}
-            {% if talk.info %}
-              <p>{{ talk.info }}</p>
-            {% else %}
-              <p>&nbsp;</p>
-            {% endif %}
+            <p>
+              {{ talk.title }}<br>
+              {{ talk.subtitle }}
+            </p>
           </div>
         </div>
       </li>
