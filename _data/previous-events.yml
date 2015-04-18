@@ -5,14 +5,17 @@
     speaker_twitter:
     info: Our journey with the Tomster
     image: images/speakers/british-gas-team.jpg
+    video_url: https://vimeo.com/124930055
   - speaker_name: Vaidas Mykolaitis
     speaker_twitter: codepreneurr
     info: Hamsters on fire
     image: images/speakers/codepreneurr.jpg
+    video_url: https://vimeo.com/124906884
   - speaker_name: Chris Game
     speaker_twitter: TheGameOf79
     info: Routes manuva
     image: images/speakers/chrisgame.jpg
+    video_url: https://vimeo.com/124906883
 - date: 12 March 2015
   talks:
   - speaker_name: aaron chambers
