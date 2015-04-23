@@ -1,5 +1,6 @@
 ---
 layout: guidelines
+title: Speaker Guidelines
 ---
 
 # Ember London Speaker Guidelines
