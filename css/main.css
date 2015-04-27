@@ -217,6 +217,15 @@ p { margin: 24px 0; }
   text-align: center;
 }
 
+.talk-title {
+  margin-bottom: .5em;
+}
+.talk-abstract {
+  margin-top: 0;
+  font-size: .85em;
+  line-height: 1.4;
+}
+
 .speaker-img {
   display: block;
 

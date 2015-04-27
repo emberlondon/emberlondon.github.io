@@ -3,3 +3,20 @@ time: 6.30pm – 9.30pm
 datetime_aria: Thursday, fourteenth of May, two-thousand and fifteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
 url: "http://www.meetup.com/London-Emberjs-User-Group/events/221220636/"
+talks:
+  - speaker_name: Gavin Joyce
+    speaker_twitter: gavinjoyce
+    image: images/speakers/gavinjoyce.jpg
+    title: "Taming Content Editable with&nbsp;Ember"
+    abstract: "Gavin will explain why Intercom rebuilt almost all of the functionality of content editable in Ember including undo/redo, copy/paste, selection and keyboard events."
+  - speaker_name: Steve Tyler
+    speaker_twitter: stevetyler_uk
+    image: images/speakers/stevetyler.jpg
+    title: "An Introduction to Ember — Building a Basic Twitter App"
+    abstract: "Steve will cover the basic structure and key features of an Ember application."
+  - speaker_name: Andrew Faraday
+    speaker_twitter: MarmiteJunction
+    image: images/speakers/marmitejunction.jpg
+    title: "How to make a Musical Instrument in 5 Minutes"
+    abstract: "Andrew will show us the quick and easy way to make a musical instrument with any desktop or laptop computer, and how to produce some music by an algorithm."
+
