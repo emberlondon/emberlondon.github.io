@@ -280,6 +280,14 @@ p { margin: 24px 0; }
   .talks-nested-column { width: 100%; }
   .talks-nested-column:nth-child(2n+1) { clear: none; }
   .talks-nested-column+.talks-nested-column { margin-top: 0; }
+
+  .half-width-columns > .column {
+    width: 50%;
+  }
+  .talk-abstract {
+    min-height: 4.5em;
+    padding-bottom: 2em;
+  }
 }
 
 @media (min-width: 752px) {
