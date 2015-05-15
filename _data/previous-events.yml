@@ -1,4 +1,21 @@
-
+- date: 14 May 2015
+  talks:
+  - speaker_name: Gavin Joyce
+    speaker_twitter: gavinjoyce
+    image: images/speakers/gavinjoyce.jpg
+    info: "Taming Content Editable with&nbsp;Ember"
+  - speaker_name: Steve Tyler
+    speaker_twitter: stevetyler_uk
+    image: images/speakers/stevetyler.jpg
+    info: "Introduction to Ember, Building a Basic Twitter App"
+  - speaker_name: David Rhys White
+    speaker_twitter: davidrhyswhite
+    image: images/speakers/davidrhyswhite.jpg
+    info: "Full-stack development environments with Docker"
+  - speaker_name: Andrew Faraday
+    speaker_twitter: MarmiteJunction
+    image: images/speakers/marmitejunction.jpg
+    info: "SMIFF Music"
 - date: 8 April 2015
   talks:
   - speaker_name: Deepan Aiyasamy, Olivier Lesnicki & Andy Czerwinski

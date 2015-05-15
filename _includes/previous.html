@@ -7,7 +7,7 @@
         <h3 class="accordion-header event-date {% cycle 'odd', 'even' %}">
           {{ event.date }}
         </h3>
-        <ul class="row talks accordion-content">
+        <ul class="row talks accordion-content contains-{{ event.talks | size }}">
           {% for talk in event.talks %}
             <li class="column talks-column">
               <div class="row">

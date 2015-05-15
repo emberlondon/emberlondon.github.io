@@ -1,6 +1,6 @@
 <section class="next">
   {% if site.data.next-project-night.date %}
-  <h2>Next Project Day:</h2>
+  <h2>Next Project Night:</h2>
   <p class="next-date" aria-label="{{ site.data.next-project-night.datetime_aria }}">{{ site.data.next-project-night.date }}, {{ site.data.next-project-night.time }}</p>
   <p><a class="button" href="{{ site.data.next-project-night.url }}">RSVP on Meetup</a></p>
   <hr>
@@ -21,7 +21,7 @@
     <div class="column next-column">
       <h3>What to Expect</h3>
       <p><strong>BYOP (Bring Your Own Project)</strong></p>
-      <p>Project Days are all about jumping in, getting help and giving back. Be that working on an upstream change to Ember itself or a side project using Ember. The sessions are informal, friendly and agenda-less.</p>
+      <p>Project Nights are all about jumping in, getting help and giving back. Be that working on an upstream change to Ember itself or a side project using Ember. The sessions are informal, friendly and agenda-less.</p>
       <p>Mix with your fellow Embereños and get hacking!</p>
       <p>Refreshments provided by our awesome host(s) and sponsor(s).</p>
       <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="http://confcodeofconduct.com/">code of conduct</a> for more detail.</p>
@@ -30,6 +30,7 @@
   {% endif %}
 
   {% if site.data.next-meetup.date %}
+  <hr>
   <h2>Next Meetup:</h2>
   <p class="next-date" aria-label="{{ site.data.next-meetup.datetime_aria }}">{{ site.data.next-meetup.date }}, {{ site.data.next-meetup.time }}</p>
   <p><a class="button" href="{{ site.data.next-meetup.url }}">RSVP on Meetup</a></p>

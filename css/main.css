@@ -274,6 +274,7 @@ p { margin: 24px 0; }
   .talks { text-align: center; }
 
   .talks-column { width: 33.3333%; }
+  .contains-4 .talks-column { width: 25%; }
   .talks-nested-column:nth-child(3n+1) { clear: left; }
   .talks-column+.talks-column { margin-top: -24px; }
 
