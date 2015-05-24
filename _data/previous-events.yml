@@ -14,6 +14,7 @@
     speaker_twitter: davidrhyswhite
     image: images/speakers/davidrhyswhite.jpg
     info: "Full-stack development environments with Docker"
+    video_url: https://vimeo.com/128729539
   - speaker_name: Andrew Faraday
     speaker_twitter: MarmiteJunction
     image: images/speakers/marmitejunction.jpg
