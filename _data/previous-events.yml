@@ -4,10 +4,12 @@
     speaker_twitter: gavinjoyce
     image: images/speakers/gavinjoyce.jpg
     info: "Taming Content Editable with&nbsp;Ember"
+    video_url: https://vimeo.com/128728111
   - speaker_name: Steve Tyler
     speaker_twitter: stevetyler_uk
     image: images/speakers/stevetyler.jpg
     info: "Introduction to Ember, Building a Basic Twitter App"
+    video_url: https://vimeo.com/128728112
   - speaker_name: David Rhys White
     speaker_twitter: davidrhyswhite
     image: images/speakers/davidrhyswhite.jpg
