@@ -1,3 +1,20 @@
+- date: 11 June 2015
+  talks:
+  - speaker_name: Melinda Seckington
+    speaker_twitter: mseckington
+    image: images/speakers/mseckington.jpg
+    info: "Un-artificial Intelligence"
+    video_url:
+  - speaker_name: Sebastian McKenzie
+    speaker_twitter: sebmck
+    image: images/speakers/sebmck.jpg
+    info: "JavaScript Transformation"
+    video_url:
+  - speaker_name: "SANE Stack: Progress Report"
+    speaker_twitter: mpadourek
+    image: images/speakers/mpadourek.jpg
+    info: "SANE Stack: Progress Report"
+    video_url:
 - date: 14 May 2015
   talks:
   - speaker_name: Gavin Joyce
