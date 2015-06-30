@@ -4,17 +4,17 @@
     speaker_twitter: mseckington
     image: images/speakers/mseckington.jpg
     info: "Un-artificial Intelligence"
-    video_url:
+    video_url: https://vimeo.com/132196377
   - speaker_name: Sebastian McKenzie
     speaker_twitter: sebmck
     image: images/speakers/sebmck.jpg
     info: "JavaScript Transformation"
-    video_url:
+    video_url: https://vimeo.com/132198620
   - speaker_name: "SANE Stack: Progress Report"
     speaker_twitter: mpadourek
     image: images/speakers/mpadourek.jpg
     info: "SANE Stack: Progress Report"
-    video_url:
+    video_url: https://vimeo.com/132203795
 - date: 14 May 2015
   talks:
   - speaker_name: Gavin Joyce
