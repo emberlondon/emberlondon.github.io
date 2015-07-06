@@ -21,6 +21,8 @@ Email these to [talk@emberlondon.com](mailto:talk@emberlondon.com).
 Please consider the following when preparing your talk:
 
 - Your talk should be **10–30 minutes** long
+- The projector resolution is 1920x1080  
+  (your slides don’t *have* to be 16:9 but we find they look best at that aspect)
 - Do not use a pure white background  
   (the projector gets confused)
 - You will be using your own laptop  
