@@ -1,21 +1,21 @@
-date: Thursday, 9 July 2015
+date: Thursday, 13 August 2015
 time: 6.30pm – 9.30pm
-datetime_aria: Thursday, ninth of July, two-thousand and fifteen, six thirty pm to nine thirty pm.
+datetime_aria: Thursday, thirteenth of August, two-thousand and fifteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
-url: "http://www.meetup.com/London-Emberjs-User-Group/events/221724935/"
-talks:
-  - speaker_name: Will Raxworthy
-    speaker_twitter: willrax
-    image: images/speakers/willrax.jpg
-    title: "Testing Ember with Ember CLI Mirage"
-    abstract: "We’ll look at how to use ember-cli-mirage to create acceptance tests for an ember application. Specifically, we’ll look at how to use mirage's factories and scenarios to generate data that developers can use in both development and testing."
-  - speaker_name: Hugh Francis
-    speaker_twitter: _hhff
-    image: images/speakers/hhff.jpg
-    title: "Building a Side Cart with Spree Ember"
-    abstract: "Hugh will show how to get up and running with the Spree Ember library, and live code a sliding sidecart for the Spree Ember ecosystem."
-  - speaker_name: Nikos Katsikanis
-    speaker_twitter:
-    image: images/speakers/nikos.jpg
-    title: "Recording acceptance tests with the Ember-cli-test-recorder"
-    abstract: "Generate rich UI acceptance tests automatically, on the fly, in the most natural way possible: by using your app."
+url: "http://www.meetup.com/London-Emberjs-User-Group/events/221724941/"
+# talks:
+#   - speaker_name:
+#     speaker_twitter:
+#     image:
+#     title:
+#     abstract:
+#   - speaker_name:
+#     speaker_twitter:
+#     image:
+#     title:
+#     abstract:
+#   - speaker_name:
+#     speaker_twitter:
+#     image:
+#     title:
+#     abstract:

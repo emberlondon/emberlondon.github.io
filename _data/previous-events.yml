@@ -1,3 +1,20 @@
+- date: 9 July 2015
+  talks:
+  - speaker_name: Will Raxworthy
+    speaker_twitter: willrax
+    image: images/speakers/willrax.jpg
+    info: "Testing Ember with Ember CLI Mirage"
+    video_url:
+  - speaker_name: Hugh Francis
+    speaker_twitter: _hhff
+    image: images/speakers/hhff.jpg
+    info: "Building a Side Cart with Spree Ember"
+    video_url:
+  - speaker_name: Nikos Katsikanis
+    speaker_twitter: nikosmaths
+    image: images/speakers/nikos.jpg
+    info: "Recording acceptance tests with the Ember-cli-test-recorder"
+    video_url:
 - date: 11 June 2015
   talks:
   - speaker_name: Melinda Seckington
