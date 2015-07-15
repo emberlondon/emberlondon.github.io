@@ -30,7 +30,7 @@ Please consider the following when preparing your talk:
 - Feel free to live code  
   (we can capture it just fine)
 - SSH is blocked but we can work around it for Git with this command:  
-  ```sh
+  ```
   git config --global url."https://".insteadOf git://
   ```
 - Avoid content which may make people uncomfortable  
