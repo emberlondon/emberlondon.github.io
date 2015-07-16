@@ -18,7 +18,7 @@
   - speaker_name: Nikos Katsikanis
     speaker_twitter: nikosmaths
     image: images/speakers/nikos.jpg
-    info: "Recording acceptance tests with the Ember-cli-test-recorder"
+    info: "Recording acceptance tests with ember-cli-test-recorder"
     video_url: https://vimeo.com/133657584
 - date: 11 June 2015
   talks:
