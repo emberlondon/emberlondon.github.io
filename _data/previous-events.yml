@@ -1,15 +1,20 @@
 - date: 9 July 2015
   talks:
+  - speaker_name: Jamie White & Miguel Camba
+    speaker_twitter: emberlondon
+    image: images/speakers/2015-07-datablast.jpg
+    info: "Datablast"
+    video_url: https://vimeo.com/133421896
   - speaker_name: Will Raxworthy
     speaker_twitter: willrax
     image: images/speakers/willrax.jpg
     info: "Testing Ember with Ember CLI Mirage"
-    video_url:
+    video_url: https://vimeo.com/133635981
   - speaker_name: Hugh Francis
     speaker_twitter: _hhff
     image: images/speakers/hhff.jpg
     info: "Building a Side Cart with Spree Ember"
-    video_url:
+    video_url: https://vimeo.com/133635980
   - speaker_name: Nikos Katsikanis
     speaker_twitter: nikosmaths
     image: images/speakers/nikos.jpg
