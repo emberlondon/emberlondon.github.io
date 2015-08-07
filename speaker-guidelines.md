@@ -35,9 +35,9 @@ Please consider the following when preparing your talk:
   ```
 - Avoid content which may make people uncomfortable  
   (if in doubt, please ask)
-- If you intend to adapt the Tomster (Ember’s hamster mascot)  
+- If you intend to adapt the Tomster (Ember’s hamster mascot)
   please let us know (the adaptation will need approval)
-- If you use [f.lux](https://justgetflux.com/), remember to disable it prior to  
+- If you use [f.lux](https://justgetflux.com/), remember to disable it prior to
   delivering your talk
 
 ---
