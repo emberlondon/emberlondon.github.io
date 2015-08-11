@@ -8,7 +8,7 @@ talks:
     speaker_twitter: riklomas
     image: images/speakers/riklomas.jpg
     title: Building on the PEEP stack (Postgres, Elixir, Ember, Phoenix)
-  - speaker_name: Ju Lui and Eugenio Depalo
+  - speaker_name: Ju Liu and Eugenio Depalo
     speaker_twitter: joinalphasights
     image: images/speakers/alphasights.jpg
     title: How to design reusable components in Ember 2
