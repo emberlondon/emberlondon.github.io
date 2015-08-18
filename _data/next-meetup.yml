@@ -1,18 +1,18 @@
-date: Thursday, 13 August 2015
+date: Thursday, 10 September 2015
 time: 6.30pm – 9.30pm
-datetime_aria: Thursday, thirteenth of August, two-thousand and fifteen, six thirty pm to nine thirty pm.
+datetime_aria: Thursday, tenth of September, two-thousand and fifteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
-url: "http://www.meetup.com/London-Emberjs-User-Group/events/221724941/"
-talks:
-  - speaker_name: Rik Lomas
-    speaker_twitter: riklomas
-    image: images/speakers/riklomas.jpg
-    title: Building on the PEEP stack (Postgres, Elixir, Ember, Phoenix)
-  - speaker_name: Ju Liu and Eugenio Depalo
-    speaker_twitter: joinalphasights
-    image: images/speakers/alphasights.jpg
-    title: How to design reusable components in Ember 2
-  - speaker_name: Jonathan Fielding
-    speaker_twitter: jonthanfielding
-    image: images/speakers/jonthanfielding.jpg
-    title: Reimagining How We Design Responsively
+url: "http://www.meetup.com/London-Emberjs-User-Group/events/224042161/"
+# talks:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: images/speakers/
+#     title:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: images/speakers/
+#     title:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: images/speakers/
+#     title:
