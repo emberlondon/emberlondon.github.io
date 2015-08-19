@@ -14,6 +14,7 @@
     speaker_twitter: riklomas
     image: images/speakers/riklomas.jpg
     info: Building on the PEEP stack (Postgres, Elixir, Ember, Phoenix)
+    video_url: https://vimeo.com/136696498
 - date: 9 July 2015
   talks:
   - speaker_name: Jamie White & Miguel Camba
