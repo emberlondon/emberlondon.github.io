@@ -3,16 +3,16 @@
   - speaker_name: Ju Liu
     speaker_twitter: arkh4m
     image: images/speakers/arkh4m.jpg
-    title: How to design reusable components in Ember 2
+    info: How to design reusable components in Ember 2
     video_url: https://vimeo.com/136671317
   - speaker_name: Jonathan Fielding
     speaker_twitter: jonthanfielding
     image: images/speakers/jonthanfielding.jpg
-    title: Reimagining How We Design Responsively
+    info: Reimagining How We Design Responsively
   - speaker_name: Rik Lomas
     speaker_twitter: riklomas
     image: images/speakers/riklomas.jpg
-    title: Building on the PEEP stack (Postgres, Elixir, Ember, Phoenix)
+    info: Building on the PEEP stack (Postgres, Elixir, Ember, Phoenix)
 - date: 9 July 2015
   talks:
   - speaker_name: Jamie White & Miguel Camba
