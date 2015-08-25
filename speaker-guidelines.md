@@ -49,4 +49,4 @@ We’re very happy to help prepare and review your slides. If you’d like to re
 ### Helpful links for speakers
 
 - [Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA)
-  - a couple great tips for public speaking, its a little cheesy but I'd recommend it [@karlfreeman](https://github.com/karlfreeman)
+  - a couple great tips for public speaking, its a little cheesy but I'd recommend it - [@karlfreeman](https://github.com/karlfreeman)
