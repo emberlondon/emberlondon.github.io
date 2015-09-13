@@ -1,21 +1,21 @@
-date: Thursday, 10 September 2015
+date: Thursday, 15 October 2015
 time: 6.30pm – 9.30pm
 datetime_aria: Thursday, tenth of September, two-thousand and fifteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
-url: "http://www.meetup.com/London-Emberjs-User-Group/events/224042161/"
-talks:
-  - speaker_name: Aaron Chambers
-    speaker_twitter: grandazz
-    image: images/speakers/achambers-2.jpg
-    title: Ember CLI Deploy 0.5
-    abstract: One command to deploy them all
-  - speaker_name: Alex Speller
-    speaker_twitter: alexspeller
-    image: images/speakers/alex-3.jpg
-    title: Ember Twiddle
-    abstract: A web-based Ember.js code sharing tool that follows ember-cli’s conventions
-  - speaker_name: Bryan Crotaz
-    speaker_twitter: BryanCrotaz
-    image: images/speakers/bryancrotaz-2.jpg
-    title: Ember Grid
-    abstract: Scalable, stylable, customisable grid for Ember 2.0
+url: "http://www.meetup.com/London-Emberjs-User-Group/events/224459328/"
+# talks:
+#   - speaker_name:
+#     speaker_twitter:
+#     image:
+#     title:
+#     abstract:
+#   - speaker_name:
+#     speaker_twitter:
+#     image:
+#     title:
+#     abstract:
+#   - speaker_name:
+#     speaker_twitter:
+#     image:
+#     title:
+#     abstract:
