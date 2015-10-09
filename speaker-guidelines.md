@@ -18,6 +18,9 @@ Email these to [talk@emberlondon.com](mailto:talk@emberlondon.com).
 
 Please consider the following when preparing your talk:
 
+- Please review the official [Tomster FAQ](http://emberjs.com/tomster/faq/)
+  and [logo documentation](http://emberjs.com/logos/)
+  before working on any custom adaptations.
 - Your talk should be **10–30 minutes** long
 - The projector resolution is **1920x1080**  
   (your slides don’t *have* to be 16:9 but we find they look best at that aspect)
@@ -33,8 +36,6 @@ Please consider the following when preparing your talk:
   ```
 - Avoid content which may make people uncomfortable  
   (if in doubt, please ask)
-- If you intend to adapt the Tomster (Ember’s hamster mascot)
-  please let us know (the adaptation will need approval)
 - If you use [f.lux](https://justgetflux.com/), remember to disable it prior to
   delivering your talk
 
