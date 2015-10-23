@@ -21,7 +21,9 @@ Please consider the following when preparing your talk:
 - Please review the official [Tomster FAQ](http://emberjs.com/tomster/faq/)
   and [logo documentation](http://emberjs.com/logos/)
   before working on any custom adaptations.
-- Your talk should be **10–30 minutes** long
+- Your talk should be **5–20 minutes** long
+- 5 minute talks are very welcome
+- Each slot is 30 minutes max, including Q&A
 - The projector resolution is **1920x1080**  
   (your slides don’t *have* to be 16:9 but we find they look best at that aspect)
 - Do not use a pure white background  
