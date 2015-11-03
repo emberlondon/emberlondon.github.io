@@ -1,3 +1,15 @@
+- date: 15 October 2015
+  talks:
+  - speaker_name: Taras Mankovski
+    speaker_twitter: embersherpa
+    image: images/speakers/embersherpa.png
+    info: Say hello to <a href="https://www.bigmarker.com/communities/global-ember-meetup">GlobalEmberMeetup</a>
+    # video_url:
+  - speaker_name: Will Raxworthy
+    speaker_twitter: willrax
+    image: images/speakers/willrax-2.jpg
+    info: A Closer Look at Phoenix
+    # video_url:
 - date: 10 September 2015
   talks:
   - speaker_name: Aaron Chambers
