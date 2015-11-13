@@ -1,3 +1,20 @@
+- date: 12 November 2015
+  talks:
+  - speaker_name: Andrew McArdle
+    speaker_twitter: andrew_mcardle
+    image: images/speakers/andrew_mcardle.jpg
+    title: First step towards polymorphic validation with Ember and Rails
+    # video_url:
+  - speaker_name: Jon Beer
+    speaker_twitter: jonbeer
+    image: images/speakers/jonbeer.jpg
+    title: How to incrementally port your Rails app front end to Ember.js, page by page
+    # video_url:
+  - speaker_name: Michael Schinis
+    speaker_twitter: mschinis
+    image: images/speakers/mschinis.jpg
+    title: Test Driven Development using ember-cli-yadda
+    # video_url:
 - date: 15 October 2015
   talks:
   - speaker_name: Taras Mankovski
