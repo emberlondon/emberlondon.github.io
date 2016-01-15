@@ -1,3 +1,17 @@
+- date: 14 January 2016
+  talks:
+  - speaker_name: Ju Liu
+    speaker_twitter: arkh4m
+    image: images/speakers/arkh4m-2.jpg
+    info: "No REST for the wicked: an introduction to GraphQL"
+  - speaker_name: Miguel Camba
+    speaker_twitter: MiguelCamba
+    image: images/speakers/miguelcamba-2.jpg
+    info: Ember Power Select
+  - speaker_name: Jamie White
+    speaker_twitter: jgwhite
+    image: images/speakers/jgwhite-3.jpg
+    info: 2015 Re-cap
 - date: 12 November 2015
   talks:
   - speaker_name: Andrew McArdle

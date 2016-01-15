@@ -1,18 +1,18 @@
-date: Thursday, 14 January 2016
+date: Thursday, 11 February 2016
 time: 6.30pm – 9.30pm
-datetime_aria: Thursday, fourteenth of January, two-thousand and sixteen, six thirty pm to nine thirty pm.
+datetime_aria: Thursday, eleventh of February, two-thousand and sixteen, six thirty pm to nine thirty pm.
 location: Eden House, 8 Spital Square, London E1 6DU
-url: http://www.meetup.com/London-Emberjs-User-Group/events/227823719/
-talks:
-  - speaker_name: Ju Liu
-    speaker_twitter: arkh4m
-    image: images/speakers/arkh4m-2.jpg
-    title: "No REST for the wicked: an introduction to GraphQL"
-  - speaker_name: Miguel Camba
-    speaker_twitter: MiguelCamba
-    image: images/speakers/miguelcamba-2.jpg
-    title: Ember Power Select
-  - speaker_name: Jamie White
-    speaker_twitter: jgwhite
-    image: images/speakers/jgwhite-3.jpg
-    title: 2015 Re-cap
+url: http://www.meetup.com/London-Emberjs-User-Group/events/227825625/
+# talks:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: images/speakers/
+#     title:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: images/speakers/
+#     title:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: images/speakers/
+#     title:
