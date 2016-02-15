@@ -1,3 +1,35 @@
+- date: 11 February 2016
+  talks:
+  - speaker_name: Will Raxworthy
+    speaker_twitter: willrax
+    image: images/speakers/willrax-3.jpg
+    info: Building Slack bots in Elixir
+    video_url:
+  - speaker_name: Miguel Camba
+    speaker_twitter: MiguelCamba
+    image: images/speakers/miguelcamba-4.jpg
+    info: Ember Power Select
+    video_url:
+  - speaker_name: Andy Czerwinski
+    speaker_twitter: czeggers
+    image: images/speakers/czeggers.jpg
+    info: Ember in action at British Gas
+    video_url:
+  - speaker_name: Wojtek Siudinski
+    speaker_twitter: suda
+    image: images/speakers/suda.jpg
+    info: Ember in action at Particle.io
+    video_url:
+  - speaker_name: Andrew McArdle
+    speaker_twitter: andrew_mcardle
+    image: images/speakers/andrew_mcardle-2.jpg
+    info: NHS Hack Days
+    video_url:
+  - speaker_name: Jamie White
+    speaker_twitter: jgwhite
+    image: images/speakers/jgwhite-5.jpg
+    info: Using Ember with Greensock
+    video_url:
 - date: 14 January 2016
   talks:
   - speaker_name: Ju Liu

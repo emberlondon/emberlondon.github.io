@@ -278,6 +278,10 @@ p { margin: 24px 0; }
   .talks-nested-column:nth-child(3n+1) { clear: left; }
   .talks-column+.talks-column { margin-top: -24px; }
 
+  .talks-column {
+    margin-bottom: 0px;
+  }
+
   .talks-nested-column { width: 100%; }
   .talks-nested-column:nth-child(2n+1) { clear: none; }
   .talks-nested-column+.talks-nested-column { margin-top: 0; }
