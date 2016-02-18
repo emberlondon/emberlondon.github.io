@@ -4,17 +4,17 @@
     speaker_twitter: willrax
     image: images/speakers/willrax-3.jpg
     info: Building Slack bots in Elixir
-    video_url:
+    video_url: https://vimeo.com/155779143
   - speaker_name: Miguel Camba
     speaker_twitter: MiguelCamba
     image: images/speakers/miguelcamba-4.jpg
     info: Ember Power Select
-    video_url:
+    video_url: https://vimeo.com/155779142
   - speaker_name: Andy Czerwinski
     speaker_twitter: czeggers
     image: images/speakers/czeggers.jpg
     info: Ember in action at British Gas
-    video_url:
+    video_url: https://vimeo.com/155782869
   - speaker_name: Wojtek Siudinski
     speaker_twitter: suda
     image: images/speakers/suda.jpg
@@ -24,7 +24,7 @@
     speaker_twitter: andrew_mcardle
     image: images/speakers/andrew_mcardle-2.jpg
     info: NHS Hack Days
-    video_url:
+    video_url: https://vimeo.com/155780083
   - speaker_name: Jamie White
     speaker_twitter: jgwhite
     image: images/speakers/jgwhite-5.jpg
