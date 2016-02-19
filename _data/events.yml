@@ -1,11 +1,3 @@
-- type: project-night
-  date: Thursday, 18 February 2016
-  time: 7pm – 11pm
-  datetime_aria: Thursday, eighteenth of February, two-thousand and sixteen
-  location: AlphaSights, 201 Borough High Street, Borough, London
-  location_for_google: 201 Borough High Street, Borough, London
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/228104881/
-
 - type: meetup
   date: Thursday, 17 March 2016
   time: 6.30pm – 9.30pm
@@ -13,3 +5,10 @@
   location: Eden House, 8 Spital Square, London E1 6DU
   location_for_google: 201 Borough High Street, Borough, London
   url: http://www.meetup.com/London-Emberjs-User-Group/events/227825632/
+# - type: project-night
+#   date: Thursday, 18 February 2016
+#   time: 7pm – 11pm
+#   datetime_aria: Thursday, eighteenth of February, two-thousand and sixteen
+#   location: AlphaSights, 201 Borough High Street, Borough, London
+#   location_for_google: 201 Borough High Street, Borough, London
+#   url: http://www.meetup.com/London-Emberjs-User-Group/events/228104881/
