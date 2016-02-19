@@ -1,0 +1,19 @@
+---
+layout: null
+---
+{
+  "events": [
+    {% if site.data.next-meetup.date %}
+      {
+        "title": "The next meetup is {{site.data.next-meetup.date}}",
+        "url": "{{site.data.next-meetup.url}}"
+      },
+    {% endif %}
+    {% if site.data.next-project-night.date %}
+      {
+        "title": "The next project night is {{site.data.next-project-night.date}}",
+        "url": "{{site.data.next-project-night.url}}"
+      },
+    {% endif %}
+  ]
+}
