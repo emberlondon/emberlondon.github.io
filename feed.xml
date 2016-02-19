@@ -21,7 +21,7 @@ layout: null
             <link>{{ talk.video_url }}</link>
             <guid isPermaLink="true">{{ talk.video_url }}</guid>
           </item>
-        {% if talk.video_url %}
+        {% endif %}
       {% endfor %}
     {% endfor %}
   </channel>

@@ -1,0 +1,52 @@
+<h2>Next Meetup:</h2>
+<p class="next-date" aria-label="{{ event.datetime_aria }}">{{ event.date }}, {{ event.time }}</p>
+<p><a class="button" href="{{ event.url }}">RSVP on Meetup</a></p>
+
+{% if event.talks %}
+  <hr>
+  <h3>Line-up</h3>
+  <ul class="row talks third-width-columns">
+    {% for talk in event.talks %}
+      <li class="column talks-column">
+        <div class="row">
+          <div class="column talks-nested-column">
+            <img src="{{ talk.image }}" alt="Photo of {{ talk.speaker_name }}" class="speaker-img">
+          </div>
+          <div class="column talks-nested-column">
+            <h4>{{ talk.speaker_name }}</h4>
+            <p class="speaker-twitter">
+            {% if talk.speaker_twitter %}
+              <a href="http://www.twitter.com/{{ talk.speaker_twitter }}">@{{ talk.speaker_twitter }}</a>
+            {% else %}
+              &nbsp;
+            {% endif %}
+            </p>
+            <p class="talk-title">{{ talk.title }}</p>
+            <p class="talk-abstract">{{ talk.abstract }}</p>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<hr>
+
+<div class="row">
+  <div class="column next-column">
+    <h3>The Venue</h3>
+    <div class="map-container" role="presentation" aria-hidden="true">
+      <div class="map">{{event.location}}</div>
+    </div>
+    <p class="map-link"><a href="http://maps.google.com/?q={{event.location_for_google | uri_escape}}">{{event.location}}</a></p>
+    <hr class="next-rule">
+  </div>
+
+  <div class="column next-column">
+    <h3>What to Expect</h3>
+    <p>In-depth talks and discussion with other developers building ambitious web applications. Our focus is Ember.js, but we strive to cover other great technologies such as Angular, Knockout and more.</p>
+    <p>After the talks we’ll head to the pub to continue the conversation.</p>
+    <p>We strive to ensure everyone feels comfortable and included and has a great time at our events.<br>See the <a href="https://github.com/emberlondon/code-of-conduct">code of conduct</a> for more detail.</p>
+    <p>Kindly sponsored by <a href="http://www.sapient.com/en-gb/sapientnitro.html">SapientNitro</a></p>
+  </div>
+</div>
