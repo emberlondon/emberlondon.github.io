@@ -19,7 +19,7 @@
     speaker_twitter: suda
     image: images/speakers/suda.jpg
     info: Ember in action at Particle.io
-    video_url:
+    video_url: https://vimeo.com/156069129
   - speaker_name: Andrew McArdle
     speaker_twitter: andrew_mcardle
     image: images/speakers/andrew_mcardle-2.jpg
@@ -29,7 +29,7 @@
     speaker_twitter: jgwhite
     image: images/speakers/jgwhite-5.jpg
     info: Using Ember with Greensock
-    video_url:
+    video_url: https://vimeo.com/156069128
 - date: 14 January 2016
   talks:
   - speaker_name: Ju Liu
