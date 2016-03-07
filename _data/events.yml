@@ -10,7 +10,7 @@
     speaker_twitter: nikz
     image: images/speakers/nikz-2.jpg
     title: ember-cli-deploy in action
-    abstract: If you’re not already ember-cli-deploy’s awesomeness, this talk will further demonstrate its power and flexibility.
+    abstract: If you’re not already using ember-cli-deploy’s, this talk will further demonstrate its power and flexibility.
   - speaker_name: Jamie White
     speaker_twitter: jgwhite
     image: images/speakers/jgwhite-6.jpg
