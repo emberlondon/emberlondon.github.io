@@ -10,12 +10,12 @@
     speaker_twitter: nikz
     image: images/speakers/nikz-2.jpg
     title: ember-cli-deploy in action
-    abstract: If you’re not already using ember-cli-deploy’s, this talk will further demonstrate its power and flexibility.
+    abstract: A concise demonstration of ember-cli-deploy’s power and flexibility.
   - speaker_name: Jamie White
     speaker_twitter: jgwhite
     image: images/speakers/jgwhite-6.jpg
     title: Accessibility in Ember.js
-    abstract: This talk will cover tools and techniques for ensuring your Ember app works great with assistive technologies.
+    abstract: Tools and techniques to ensure your app works great with assistive technologies.
   - speaker_name: TBA
     image: images/speakers/tba.png
     title: Watch this space
