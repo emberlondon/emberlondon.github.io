@@ -5,6 +5,20 @@
   location: Eden House, 8 Spital Square, London E1 6DU
   location_for_google: 201 Borough High Street, Borough, London
   url: http://www.meetup.com/London-Emberjs-User-Group/events/227825632/
+  talks:
+  - speaker_name: Nik Wakelin
+    speaker_twitter: nikz
+    image: images/speakers/nikz-2.jpg
+    title: ember-cli-deploy in action
+    abstract: If you’re not already ember-cli-deploy’s awesomeness, this talk will further demonstrate its power and flexibility.
+  - speaker_name: Jamie White
+    speaker_twitter: jgwhite
+    image: images/speakers/jgwhite-6.jpg
+    title: Accessibility in Ember.js
+    abstract: This talk will cover tools and techniques for ensuring your Ember app works great with assistive technologies.
+  - speaker_name: TBA
+    image: images/speakers/tba.png
+    title: Watch this space
 - type: project-night
   date: Thursday, 24 March 2016
   time: 7pm – 11pm
