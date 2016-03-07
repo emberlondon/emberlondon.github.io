@@ -14,7 +14,7 @@
   - speaker_name: Jamie White
     speaker_twitter: jgwhite
     image: images/speakers/jgwhite-6.jpg
-    title: Accessibility in Ember.js
+    title: Building Accessible Ember Apps
     abstract: Tools and techniques to ensure your app works great with assistive technologies.
   - speaker_name: TBA
     image: images/speakers/tba.png
