@@ -67,6 +67,10 @@ input[type="email"] {
 
 p { margin: 24px 0; }
 
+.intro-heading {
+  font-size: 1rem;
+}
+
 .accordion-header {
   display: block;
   overflow: hidden;
