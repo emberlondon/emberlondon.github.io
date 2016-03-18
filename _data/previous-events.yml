@@ -1,3 +1,17 @@
+- date: 17 March 2016
+  talks:
+  - speaker_name: Nik Wakelin
+    speaker_twitter: nikz
+    image: images/speakers/nikz-2.jpg
+    info: ember-cli-deploy in action
+  - speaker_name: Jamie White
+    speaker_twitter: jgwhite
+    image: images/speakers/jgwhite-6.jpg
+    info: Building Accessible Ember Apps
+  - speaker_name: Show & Tell
+    speaker_twitter: emberlondon
+    image: images/speakers/show-and-tell.svg
+    info: Your chance to present
 - date: 11 February 2016
   talks:
   - speaker_name: Will Raxworthy
