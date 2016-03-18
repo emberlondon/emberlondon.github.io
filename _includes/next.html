@@ -1,6 +1,6 @@
 <section class="next">
   {% for event in site.data.events %}
     {% include {{event.type}}.html event=event %}
-    <hr>
+    <hr role="presentation">
   {% endfor %}
 </section>
