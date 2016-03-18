@@ -423,7 +423,7 @@
       video_url: "https://vimeo.com/81960884"
     - speaker_name: Richard Livsey
       speaker_twitter: "rlivsey"
-      info: Introducing <a href="https://github.com/rlivsey/fireplace">Fireplace</a>, a sophisticated open source adapter for Firebase and Ember.js.</p>
+      info: Introducing <a href="https://github.com/rlivsey/fireplace">Fireplace</a>, a sophisticated open source adapter for Firebase and Ember.js.
       image: images/speakers/richard.jpg
       video_url: "https://vimeo.com/81960885"
     - speaker_name: Jamie White
