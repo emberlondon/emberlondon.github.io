@@ -10,7 +10,7 @@
       <li class="column talks-column">
         <div class="row">
           <div class="column talks-nested-column">
-            <img role="presentation" src="{{ talk.image }}" alt="Photo of {{ talk.speaker_name }}" class="speaker-img">
+            <img role="presentation" src="{{ talk.image }}" alt="" class="speaker-img">
           </div>
           <div class="column talks-nested-column">
             <h4>{{ talk.speaker_name }}</h4>
@@ -22,7 +22,9 @@
             {% endif %}
             </p>
             <p class="talk-title">{{ talk.title }}</p>
+            {% if talk.abstract %}
             <p class="talk-abstract">{{ talk.abstract }}</p>
+            {% endif %}
           </div>
         </div>
       </li>

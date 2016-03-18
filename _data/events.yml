@@ -17,14 +17,11 @@
     speaker_twitter: leoniewatson
     image: images/speakers/leoniewatson.jpg
     title: "Accessibility Mechanics for Web Applications"
-    abstract:
   - speaker_name: Rob Knight
     speaker_twitter: robknight_
     image: images/speakers/robknight_2.jpg
     title: "Hot Reloading with React and Redux (for Embereños)"
-    abstract:
   - speaker_name: Jo Pearce
     speaker_twitter: jdpearce
     image: images/speakers/jdpearce.jpg
     title: "Hacking Your Head : Managing Information Overload"
-    abstract:
