@@ -4,14 +4,17 @@
     speaker_twitter: leoniewatson
     image: images/speakers/leoniewatson.jpg
     info: "Accessibility Mechanics for Web Applications"
+    video_url: https://vimeo.com/163925627
   - speaker_name: Rob Knight
     speaker_twitter: robknight_
     image: images/speakers/robknight_2.jpg
     info: "Hot Reloading with React and Redux (for Embereños)"
+    video_url: https://vimeo.com/163933996
   - speaker_name: Jo Pearce
     speaker_twitter: jdpearce
     image: images/speakers/jdpearce.jpg
     info: "Hacking Your Head : Managing Information Overload"
+    video_url: https://vimeo.com/163954484
 - date: 17 March 2016
   talks:
   - speaker_name: Nik Wakelin
