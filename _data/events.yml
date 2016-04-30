@@ -1,19 +1,27 @@
+- type: meetup
+  date: Thursday, 12 May 2016
+  time: 6.30pm – 9.30pm
+  datetime_aria: Thursday, twelth of May, two-thousand and sixteen, six thirty pm to nine thirty pm.
+  location: Eden House, 8 Spital Square, London E1 6DU
+  location_for_google: Eden House, 8 Spital Square, London E1 6DU
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/227825639/
+  talks:
+  - speaker_name: Show My Homework
+    speaker_twitter: Showmyhomework
+    image: images/speakers/showmyhomework.jpg
+    title: Ember.js Experience Report
+  - speaker_name: Daniel Grant
+    speaker_twitter: danieljohngrant
+    image: images/speakers/danieljohngrant.jpg
+    title: The Art of Reduxion
+  - speaker_name: Pablo Brasero
+    speaker_twitter: pablobm
+    image: images/speakers/pablobm.jpg
+    title: Bulletproof CRUDs with Ember
 - type: project-night
-  date: Thursday, 28 April 2016
+  date: Thursday, 19 May 2016
   time: 7pm – 10pm
-  datetime_aria: Thursday, twenty-first of April, two-thousand and sixteen, six thirty pm to nine thirty pm.
-  location: Zapnito, 18–20 Scrutton Street, London EC2A 4RX
-  location_for_google: Zapnito, 18–20 Scrutton Street, London EC2A 4RX
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/228104892/
-# - type: meetup
-#   date: Thursday, 12 May 2016
-#   time: 6.30pm – 9.30pm
-#   datetime_aria: Thursday, twelth of May, two-thousand and sixteen, six thirty pm to nine thirty pm.
-#   location: Eden House, 8 Spital Square, London E1 6DU
-#   location_for_google: Eden House, 8 Spital Square, London E1 6DU
-#   url: http://www.meetup.com/London-Emberjs-User-Group/events/227825635/
-#   talks:
-#   - speaker_name:
-#     speaker_twitter:
-#     image: images/speakers/
-#     title:
+  datetime_aria: Thursday, twenty-eighth of May, two-thousand and sixteen, seven pm to ten pm.
+  location: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
+  location_for_google: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/228104898/

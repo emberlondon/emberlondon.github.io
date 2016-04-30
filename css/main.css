@@ -170,7 +170,8 @@ p { margin: 24px 0; }
 }
 
 .next-column .map-link {
-  margin-top: .75em;
+  margin-top: .75rem;
+  font-size: .8em;
 }
 
 .next-date {
@@ -312,4 +313,9 @@ p { margin: 24px 0; }
 
 .guidelines ul {
   padding-right: 2em;
+}
+
+.event {
+  border: .5rem solid #e24b31;
+  padding: 1rem;
 }
