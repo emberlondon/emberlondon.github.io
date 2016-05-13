@@ -1,3 +1,20 @@
+- date: 12 May 2016
+  talks:
+  - speaker_name: Show My Homework
+    speaker_twitter: Showmyhomework
+    image: images/speakers/showmyhomework.jpg
+    info: A startup, why Ember?!
+    video_url:
+  - speaker_name: Daniel Grant
+    speaker_twitter: danieljohngrant
+    image: images/speakers/danieljohngrant.jpg
+    info: The Art of Reduxion
+    video_url:
+  - speaker_name: Pablo Brasero
+    speaker_twitter: pablobm
+    image: images/speakers/pablobm.jpg
+    info: Bulletproof CRUDs with Ember
+    video_url:
 - date: 21 April 2016
   talks:
   - speaker_name: Léonie Watson
