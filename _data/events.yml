@@ -1,10 +1,3 @@
-- type: project-night
-  date: Thursday, 19 May 2016
-  time: 7pm – 10pm
-  datetime_aria: Thursday, twenty-eighth of May, two-thousand and sixteen, seven pm to ten pm.
-  location: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
-  location_for_google: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/228104898/
 - type: meetup
   date: Thursday, 9 June 2016
   time: 6.30pm – 9.30pm
@@ -25,3 +18,10 @@
   #   speaker_twitter:
   #   image: images/speakers/
   #   title:
+# - type: project-night
+#   date: Thursday, 19 May 2016
+#   time: 7pm – 10pm
+#   datetime_aria: Thursday, twenty-eighth of May, two-thousand and sixteen, seven pm to ten pm.
+#   location: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
+#   location_for_google: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
+#   url: http://www.meetup.com/London-Emberjs-User-Group/events/228104898/
