@@ -5,19 +5,19 @@
   location: Eden House, 8 Spital Square, London E1 6DU
   location_for_google: Eden House, 8 Spital Square, London E1 6DU
   url: http://www.meetup.com/London-Emberjs-User-Group/events/231092600/
-  # talks:
-  # - speaker_name:
-  #   speaker_twitter:
-  #   image: images/speakers/
-  #   title:
-  # - speaker_name:
-  #   speaker_twitter:
-  #   image: images/speakers/
-  #   title:
-  # - speaker_name:
-  #   speaker_twitter:
-  #   image: images/speakers/
-  #   title:
+  talks:
+  - speaker_name: Melinda Seckington
+    speaker_twitter: mseckington
+    image: images/speakers/mseckington-2.jpg
+    title: How to succeed at hiring without really trying
+  - speaker_name: Ruslan Zavacky
+    speaker_twitter: ruslanzavacky
+    image: images/speakers/ruslanzavacky-1.jpg
+    title: KISA - Keep It Simple in Agile
+  - speaker_name: Adam Morse
+    speaker_twitter: mrmrs_
+    image: images/speakers/mrmrs_-1.jpg
+    title: TBA
 # - type: project-night
 #   date: Thursday, 19 May 2016
 #   time: 7pm – 10pm
