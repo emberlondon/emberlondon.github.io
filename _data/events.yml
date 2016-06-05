@@ -18,10 +18,10 @@
     speaker_twitter: mrmrs_
     image: images/speakers/mrmrs_-1.jpg
     title: "194 years later."
-# - type: project-night
-#   date: Thursday, 19 May 2016
-#   time: 7pm – 10pm
-#   datetime_aria: Thursday, twenty-eighth of May, two-thousand and sixteen, seven pm to ten pm.
-#   location: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
-#   location_for_google: ThoughtBot, Griffin Court, 15 Long Ln, London EC1A 9PN
-#   url: http://www.meetup.com/London-Emberjs-User-Group/events/228104898/
+- type: project-night
+  date: Thursday, 16 June 2016
+  time: 7pm – 10pm
+  datetime_aria: Thursday, Sixteenth of June, two-thousand and sixteen, seven pm to ten pm.
+  location: Show my Homework, 4th Floor, 4 Cam Road, Stratford, London, E15 2SN
+  location_for_google: 4 Cam Road, Stratford, London, E15 2SN
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/231614803/
