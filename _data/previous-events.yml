@@ -1,3 +1,20 @@
+- date: 9 June 2016
+  talks:
+  - speaker_name: Melinda Seckington
+    speaker_twitter: mseckington
+    image: images/speakers/mseckington-2.jpg
+    info: How to succeed at hiring without really trying
+    video_url:
+  - speaker_name: Ruslan Zavacky
+    speaker_twitter: ruslanzavacky
+    image: images/speakers/ruslanzavacky-1.jpg
+    info: KISA - Keep It Simple in Agile
+    video_url:
+  - speaker_name: Adam Morse
+    speaker_twitter: mrmrs_
+    image: images/speakers/mrmrs_-1.jpg
+    info: "194 years later."
+    video_url:
 - date: 12 May 2016
   talks:
   - speaker_name: Show My Homework
