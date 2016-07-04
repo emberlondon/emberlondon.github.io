@@ -1,27 +1,27 @@
-- type: project-night
-  date: Thursday, 16 June 2016
-  time: 7pm – 10pm
-  datetime_aria: Thursday, Sixteenth of June, two-thousand and sixteen, seven pm to ten pm.
-  location: Show my Homework, 4th Floor, 4 Cam Road, Stratford, London, E15 2SN
-  location_for_google: 4 Cam Road, Stratford, London, E15 2SN
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/231614803/
-# - type: meetup
-#   date:
-#   time: 6.30pm – 9.30pm
-#   datetime_aria:
-#   location: Eden House, 8 Spital Square, London E1 6DU
-#   location_for_google: Eden House, 8 Spital Square, London E1 6DU
-#   url:
-#   talks:
-#   - speaker_name:
-#     speaker_twitter:
-#     image:
-#     title:
-#   - speaker_name:
-#     speaker_twitter:
-#     image:
-#     title:
-#   - speaker_name:
-#     speaker_twitter:
-#     image:
-#     title:
+- type: meetup
+  date: Thursday, 14 July 2016
+  time: 6.30pm – 9.30pm
+  datetime_aria: Thursday, fourteenth of July, two-thousand and sixteen, six-thirty pm to ten pm.
+  location: Eden House, 8 Spital Square, London E1 6DU
+  location_for_google: Eden House, 8 Spital Square, London E1 6DU
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/231614809/
+  talks:
+  - speaker_name: Aaron Chambers
+    speaker_twitter: grandazz
+    image: images/speakers/grandazz-3.jpg
+    title: 'Timecop: Freeze. Put your hands in the air. Do not move a muscle'
+  - speaker_name: Will Raxworthy
+    speaker_twitter: willrax
+    image: images/speakers/willrax-2.jpg
+    title: Route Actions and Component Actions
+  - speaker_name: Barney Carroll
+    speaker_twitter: barneycarroll
+    image: images/speakers/barneycarroll.jpg
+    title: Ember Patterns
+# - type: project-night
+#   date: Thursday, 16 June 2016
+#   time: 7pm – 10pm
+#   datetime_aria: Thursday, Sixteenth of June, two-thousand and sixteen, seven pm to ten pm.
+#   location: Show my Homework, 4th Floor, 4 Cam Road, Stratford, London, E15 2SN
+#   location_for_google: 4 Cam Road, Stratford, London, E15 2SN
+#   url: http://www.meetup.com/London-Emberjs-User-Group/events/231614803/
