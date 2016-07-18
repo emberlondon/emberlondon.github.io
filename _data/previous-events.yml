@@ -1,3 +1,17 @@
+- date: 14 July 2016
+  talks:
+  - speaker_name: Aaron Chambers
+    speaker_twitter: grandazz
+    image: images/speakers/grandazz-3.jpg
+    info: 'Timecop: Freeze. Put your hands in the air. Do not move a muscle'
+  - speaker_name: Will Raxworthy
+    speaker_twitter: willrax
+    image: images/speakers/willrax-2.jpg
+    info: Route Actions and Component Actions
+  - speaker_name: Barney Carroll
+    speaker_twitter: barneycarroll
+    image: images/speakers/barneycarroll.jpg
+    info: Ember Patterns
 - date: 9 June 2016
   talks:
   - speaker_name: Melinda Seckington
