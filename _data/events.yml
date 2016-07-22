@@ -1,27 +1,27 @@
-- type: project-night
-  date: Thursday, 21 July 2016
-  time: 7pm – 10pm
-  datetime_aria: Thursday, Twenty-first of July, two-thousand and sixteen, seven pm to ten pm.
-  location: AlphaSights, 201 Borough High St, Borough, London
-  location_for_google: 201 Borough High St, Borough, London
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/231614846/
-# - type: meetup
-#   date: Thursday, 11 August 2016
-#   time: 6.30pm – 9.30pm
-#   datetime_aria: Thursday, Eleventh of August, two-thousand and sixteen, six-thirty pm to ten pm.
-#   location: Eden House, 8 Spital Square, London E1 6DU
-#   location_for_google: Eden House, 8 Spital Square, London E1 6DU
-#   url: http://www.meetup.com/London-Emberjs-User-Group/events/231614813/
-#   talks:
-#   - speaker_name
-#     speaker_twitter:
-#     image:
-#     title:
-#   - speaker_name
-#     speaker_twitter:
-#     image:
-#     title:
-#   - speaker_name
-#     speaker_twitter:
-#     image:
-#     title:
+- type: meetup
+  date: Thursday, 11 August 2016
+  time: 6.30pm – 9.30pm
+  datetime_aria: Thursday, Eleventh of August, two-thousand and sixteen, six-thirty pm to ten pm.
+  location: Eden House, 8 Spital Square, London E1 6DU
+  location_for_google: Eden House, 8 Spital Square, London E1 6DU
+  url: http://www.meetup.com/London-Emberjs-User-Group/events/231614813/
+  talks:
+  - speaker_name: Daniel Gynn
+    speaker_twitter: danielgynn
+    image: /images/speakers/danielgynn.jpg
+    title: Ember.js Experience Report
+  - speaker_name: Fox Reymann
+    speaker_twitter: foxreymann
+    image: /images/speakers/foxreymann.jpg
+    title: "JavaScript: Back to Basics"
+  - speaker_name:
+    speaker_twitter:
+    image: /images/you.svg
+    title: 'If you’d like to speak please email <a href="mailto:talk@emberlondon.com">talk@emberlondon.com</a>'
+# - type: project-night
+#   date: Thursday, 21 July 2016
+#   time: 7pm – 10pm
+#   datetime_aria: Thursday, Twenty-first of July, two-thousand and sixteen, seven pm to ten pm.
+#   location: AlphaSights, 201 Borough High St, Borough, London
+#   location_for_google: 201 Borough High St, Borough, London
+#   url: http://www.meetup.com/London-Emberjs-User-Group/events/231614846/
