@@ -9,15 +9,15 @@
   - speaker_name: Daniel Gynn
     speaker_twitter: danielgynn
     image: /images/speakers/danielgynn.jpg
-    title: Ember.js Experience Report
+    title: Building Ambitious Web Applications with Ember.js
   - speaker_name: Fox Reymann
     speaker_twitter: foxreymann
     image: /images/speakers/foxreymann.jpg
     title: "JavaScript: Back to Basics"
-  - speaker_name:
-    speaker_twitter:
-    image: /images/you.svg
-    title: 'If you’d like to speak please email <a href="mailto:talk@emberlondon.com">talk@emberlondon.com</a>'
+  - speaker_name: Ju Liu
+    speaker_twitter: arkh4m
+    image: /images/speakers/arkh4m-2.jpg
+    title: 'Blade Runner, Ex Machina, Her… and You'
 # - type: project-night
 #   date: Thursday, 21 July 2016
 #   time: 7pm – 10pm
