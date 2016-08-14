@@ -1,17 +1,37 @@
+- date: 11 August 2016
+  talks:
+  - speaker_name: Daniel Gynn
+    speaker_twitter: danielgynn
+    image: /images/speakers/danielgynn.jpg
+    info: Building Ambitious Web Applications with Ember.js
+    video_url:
+  - speaker_name: Fox Reymann
+    speaker_twitter: foxreymann
+    image: /images/speakers/foxreymann.jpg
+    info: "JavaScript: Back to Basics"
+    video_url:
+  - speaker_name: Ju Liu
+    speaker_twitter: arkh4m
+    image: /images/speakers/arkh4m-2.jpg
+    info: 'Blade Runner, Ex Machina, Her… and You'
+    video_url:
 - date: 14 July 2016
   talks:
   - speaker_name: Aaron Chambers
     speaker_twitter: grandazz
     image: images/speakers/grandazz-3.jpg
     info: 'Timecop: Freeze. Put your hands in the air. Do not move a muscle'
+    video_url:
   - speaker_name: Will Raxworthy
     speaker_twitter: willrax
     image: images/speakers/willrax-2.jpg
     info: Route Actions and Component Actions
+    video_url:
   - speaker_name: Barney Carroll
     speaker_twitter: barneycarroll
     image: images/speakers/barneycarroll.jpg
     info: Ember Patterns
+    video_url:
 - date: 9 June 2016
   talks:
   - speaker_name: Melinda Seckington
