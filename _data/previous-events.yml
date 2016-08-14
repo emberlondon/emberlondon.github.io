@@ -3,18 +3,18 @@
   - speaker_name: Daniel Gynn
     speaker_twitter: danielgynn
     image: /images/speakers/danielgynn.jpg
-    info: Building Ambitious Web Applications with Ember.js
-    video_url:
-  - speaker_name: Fox Reymann
-    speaker_twitter: foxreymann
-    image: /images/speakers/foxreymann.jpg
-    info: "JavaScript: Back to Basics"
-    video_url:
+    info: A Beginner’s Journey into Ember.js
+    video_url: https://vimeo.com/178828815
   - speaker_name: Ju Liu
     speaker_twitter: arkh4m
     image: /images/speakers/arkh4m-2.jpg
     info: 'Blade Runner, Ex Machina, Her… and You'
-    video_url:
+    video_url: https://vimeo.com/178828816
+  - speaker_name: Fox Reymann
+    speaker_twitter: foxreymann
+    image: /images/speakers/foxreymann.jpg
+    info: "Ace JavaScript Interviews: Scoping and Hoisting "
+    video_url: https://vimeo.com/178828817
 - date: 14 July 2016
   talks:
   - speaker_name: Aaron Chambers
