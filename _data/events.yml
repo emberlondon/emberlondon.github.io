@@ -14,10 +14,10 @@
     speaker_twitter:
     image: /images/speakers/dominic-maher.jpg
     title: How I Learned to Stop Worrying and Love Accessibility
-  - speaker_name: TBA
-    speaker_twitter:
-    image: /images/blank.svg
-    title: TBA
+  - speaker_name: Ken Snyder
+    speaker_twitter: yankeeinlondon
+    image: /images/speakers/ken-2.jpg
+    title: Server-light with ember-horizon
 # - type: project-night
 #   date: Thursday, 18 August 2016
 #   time: 7pm – 10pm
