@@ -12,12 +12,12 @@
     title: Convention over configuration for your APIs
   - speaker_name: Dominic Maher
     speaker_twitter:
+    image: /images/speakers/dominic-maher.jpg
+    title: How I Learned to Stop Worrying and Love Accessibility
+  - speaker_name: TBA
+    speaker_twitter:
     image: /images/blank.svg
-    title:
-  - speaker_name: Ken Snyder
-    speaker_twitter: yankeeinlondon
-    image: /images/blank.svg
-    title: 
+    title: TBA
 # - type: project-night
 #   date: Thursday, 18 August 2016
 #   time: 7pm – 10pm
