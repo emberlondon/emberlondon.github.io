@@ -1,3 +1,13 @@
+- date: 8 September 2016
+  talks:
+  - speaker_name: Deepan Aiyasamy
+    speaker_twitter: deepanice
+    image: /images/speakers/deepanice.jpg
+    info: Convention over configuration for your APIs
+  - speaker_name: Dominic Maher
+    speaker_twitter:
+    image: /images/speakers/dominic-maher.jpg
+    info: How I Learned to Stop Worrying and Love Accessibility
 - date: 11 August 2016
   talks:
   - speaker_name: Daniel Gynn

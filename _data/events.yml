@@ -1,23 +1,22 @@
 - type: meetup
-  date: Thursday, 8 September 2016
+  date: Thursday, 20 October 2016
   time: 6.30pm – 9.30pm
-  datetime_aria: Thursday, Eighth of September, two-thousand and sixteen, six-thirty pm to ten pm.
+  datetime_aria: Thursday, Twentieth of October, two-thousand and sixteen, six-thirty pm to ten pm.
   location: Eden House, 8 Spital Square, London E1 6DU
   location_for_google: Eden House, 8 Spital Square, London E1 6DU
-  url: http://www.meetup.com/London-Emberjs-User-Group/events/231614815/
+  url: https://www.meetup.com/London-Emberjs-User-Group/events/231614819/
   talks:
-  - speaker_name: Deepan Aiyasamy
-    speaker_twitter: deepanice
-    image: /images/speakers/deepanice.jpg
-    title: Convention over configuration for your APIs
-  - speaker_name: Dominic Maher
-    speaker_twitter:
-    image: /images/speakers/dominic-maher.jpg
-    title: How I Learned to Stop Worrying and Love Accessibility
+  - speaker_name: Kirill Korolyov
+    speaker_twitter: dremora
+    image: /images/speakers/dremora.jpg
+    title: Ember vs Elm
   - speaker_name: Ken Snyder
     speaker_twitter: yankeeinlondon
     image: /images/speakers/ken-2.jpg
-    title: Server-light with ember-horizon
+    title: Server-light with ember-horizon and redux
+  - speaker_name: You?
+    image: /images/you.svg
+    title: 'If you’d like to speak, email: <a href="mailto:speak@emberlondon.com">speak@emberlondon.com</a>'
 # - type: project-night
 #   date: Thursday, 18 August 2016
 #   time: 7pm – 10pm
