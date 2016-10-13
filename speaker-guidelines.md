@@ -24,6 +24,10 @@ Please consider the following when preparing your talk:
 - Your talk should be **5–20 minutes** long
 - 5 minute talks are very welcome
 - Each slot is 30 minutes max, including Q&A
+- Avoid content which may make people uncomfortable  
+  Particularly jokes with sexual connotations  
+  (if in doubt, please ask)
+- Review our [code of conduct](https://github.com/emberlondon/code-of-conduct)
 - The projector resolution is **1920x1080**  
   (your slides don’t *have* to be 16:9 but we find they look best at that aspect)
 - Do not use a pure white background  
@@ -36,8 +40,6 @@ Please consider the following when preparing your talk:
   ```
   git config --global url."https://".insteadOf git://
   ```
-- Avoid content which may make people uncomfortable  
-  (if in doubt, please ask)
 - If you use [f.lux](https://justgetflux.com/), remember to disable it prior to
   delivering your talk
 
