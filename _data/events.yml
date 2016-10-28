@@ -1,26 +1,28 @@
-# - type: meetup
-#   date: Thursday, 20 October 2016
-#   time: 6.30pm – 9.30pm
-#   datetime_aria: Thursday, Twentieth of October, two-thousand and sixteen, six-thirty pm to ten pm.
-#   location: Eden House, 8 Spital Square, London E1 6DU
-#   location_for_google: Eden House, 8 Spital Square, London E1 6DU
-#   url: https://www.meetup.com/London-Emberjs-User-Group/events/231614819/
-#   talks:
-#   - speaker_name: Kirill Korolyov
-#     speaker_twitter: dremora
-#     image: /images/speakers/dremora.jpg
-#     title: Ember vs Elm
-#   - speaker_name: Ken Snyder
-#     speaker_twitter: yankeeinlondon
-#     image: /images/speakers/ken-2.jpg
-#     title: Server-light with ember-horizon and redux
-#   - speaker_name: You?
-#     image: /images/you.svg
-#     title: 'If you’d like to speak, email: <a href="mailto:speak@emberlondon.com">speak@emberlondon.com</a>'
+- type: meetup
+  date: Thursday, 10 November 2016
+  time: 6.30pm – 9pm
+  datetime_aria: Thursday, Tenth of November, two-thousand and sixteen, six-thirty pm to nine pm.
+  location: Eden House, 8 Spital Square, London E1 6DU
+  location_for_google: Eden House, 8 Spital Square, London E1 6DU
+  url: https://www.meetup.com/London-Emberjs-User-Group/events/231614832/
+  talks:
+  - speaker_name: Jessica Jordan
+    speaker_twitter: jjordan_dev
+    image: /images/speakers/jjordan_dev.jpg
+    title: Leveraging HTML5 animations using CSS3, Ember.js and friends
+    abstract: Learn why open web standards are important for creating web animations today and find out how you can create your own using Ember.js, CSS3 and useful JavaScript libraries like Greensock and Processing.js.
+  - speaker_name: Nikos Katsikanis
+    speaker_twitter:
+    image: /images/speakers/nkatsikanis.jpg
+    title: Making a modern (more fun) version of Space Invaders using TypeScript
+    abstract: You will learn OOP game coding for Canvas using the strong Typing of TypeScript.
+  - speaker_name: You?
+    image: /images/you.svg
+    title: 'If you’d like to speak, email: <a href="mailto:speak@emberlondon.com">speak@emberlondon.com</a>'
 - type: project-night
-  date: Thursday, 27 October 2016
+  date: Thursday, 17 November 2016
   time: 7pm – 10pm
-  datetime_aria: Thursday, Twenty-seventh of October, two-thousand and sixteen, seven pm to ten pm.
-  location: TechHub London, 20 Ropemaker St, London EC2Y 9AR
-  location_for_google: TechHub London, 20 Ropemaker St, London EC2Y 9AR
-  url: https://www.meetup.com/London-Emberjs-User-Group/events/231614871/
+  datetime_aria: Thursday, Seventeenth of November, two-thousand and sixteen, seven pm to ten pm.
+  location: Show my Homework, 4th Floor, 4 Cam Road, Stratford, London, E15 2SN
+  location_for_google: 4 Cam Road, Stratford, London, E15 2SN
+  url: https://www.meetup.com/London-Emberjs-User-Group/events/231614874/
