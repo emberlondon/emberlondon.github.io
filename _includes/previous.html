@@ -12,9 +12,9 @@
             <li class="column talks-column">
               <div class="row">
                 <div class="column talks-nested-column">
-                  <a href="{{ talk.video_url }}" title="Click to watch video">
+                  {% if talk.video_url %}<a href="{{ talk.video_url }}" title="Click to watch video">{% endif %}
                     <img src="{{ talk.image }}" alt="Photo of {{ talk.speaker_name }}" class="speaker-img">
-                  </a>
+                  {% if talk.video_url %}</a>{% endif %}
                 </div>
                 <div class="column talks-nested-column">
                   <p class="speaker-name">{{ talk.speaker_name }}</p>
