@@ -1,4 +1,25 @@
-- date: Thursday, 20 October 2016
+- type: meetup
+  date: 10 November 2016
+  talks:
+  - speaker_name: Jessica Jordan
+    speaker_twitter: jjordan_dev
+    image: /images/speakers/jjordan_dev.jpg
+    title: Leveraging HTML5 animations using CSS3, Ember.js and friends
+    abstract: Learn why open web standards are important for creating web animations today and find out how you can create your own using Ember.js, CSS3 and useful JavaScript libraries like Greensock and Processing.js.
+    video_url: https://pusher.com/sessions/meetup/ember-london/leveraging-html5-animations-using-css3-emberjs-and-friends
+  - speaker_name: Nikos Katsikanis
+    speaker_twitter:
+    image: /images/speakers/nkatsikanis.jpg
+    title: Making a modern (more fun) version of Space Invaders using TypeScript
+    abstract: You will learn OOP game coding for Canvas using the strong Typing of TypeScript.
+    video_url: https://pusher.com/sessions/meetup/ember-london/making-a-modern-version-of-space-invaders-using-typescript
+  - speaker_name: Paul Abraham
+    speaker_twitter:
+    image: /images/speakers/paulabraham.jpg
+    title: Ember Engines at Scale
+    abstract: Hear how the British Gas team have begun decomposing their app into engines.
+    video_url: https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale
+- date: 20 October 2016
   talks:
   - speaker_name: Kirill Korolyov
     speaker_twitter: dremora
