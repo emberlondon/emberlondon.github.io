@@ -13,8 +13,9 @@
     title: Say Hello to Sentient
     abstract: Sentient’s creator, Chris Patuzzo, will introduce the language, its backstory, and the fascinating theory that lies below its friendly surface.
     video_url: https://pusher.com/sessions/meetup/ember-london/say-hello-to-sentient
-  - speaker_name: Deepan Aiyasamy & Olivier Lesnicki
-    image: /images/speakers/britishgas.png
+  - speaker_name: Deepan Aiyasamy
+    speaker_twitter: deepanice
+    image: /images/speakers/deepanice.jpg
     title: Let's shake some trees
     abstract: Hear about how we are using recast with Ember CLI at British Gas to only provide our web applications with the ember data models they need from a shared addon that contains all our models. You will also learn about abstract syntax trees and how Ember’s commitment to backward compatibility has influenced the way we introduce changes to our private shared addons.
     video_url: https://pusher.com/sessions/meetup/ember-london/lets-shake-some-trees
