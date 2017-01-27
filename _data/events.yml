@@ -1,25 +1,23 @@
 - type: meetup
-  date: Thursday, 12 January 2017
+  date: Thursday, 9 February 2017
   time: 6.30pm – 9pm
-  datetime_aria: Thursday, Twelth of January, two-thousand and seventeen, six-thirty pm to nine pm.
-  location: Eden House, 8 Spital Square, London E1 6DU
-  location_for_google: Eden House, 8 Spital Square, London E1 6DU
-  url: https://www.meetup.com/London-Emberjs-User-Group/events/231614839/
+  datetime_aria: Thursday, Ninth of February, two-thousand and seventeen, six-thirty pm to nine pm.
+  location: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
+  location_for_google: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
+  url: https://www.meetup.com/London-Emberjs-User-Group/events/237130214/
   talks:
-  - speaker_name: Ben Holmes 
-    speaker_twitter: binhums
-    image: /images/speakers/binhums.jpg
-    title: Building delicious forms with Ember.js
-    abstract: Often when building a form we are happy once the models are hooked up and our data is being saved. In practice, a good data entry experience has many more considerations that are easily met with the Ember.js ecosystem. We will build a set of example code for form UI that uses ember-concurrency, validations and error handling.
-  - speaker_name: Chris Patuzzo
-    speaker_twitter: cpatuzzo
-    image: /images/speakers/cpatuzzo.jpg
-    title: Say Hello to Sentient
-    abstract: Sentient’s creator, Chris Patuzzo, will introduce the language, its backstory, and the fascinating theory that lies below its friendly surface.
-  - speaker_name: Deepan Aiyasamy & Olivier Lesnicki
-    image: /images/speakers/britishgas.png
-    title: Let's shake some trees
-    abstract: Hear about how we are using recast with Ember CLI at British Gas to only provide our web applications with the ember data models they need from a shared addon that contains all our models. You will also learn about abstract syntax trees and how Ember’s commitment to backward compatibility has influenced the way we introduce changes to our private shared addons.
+  # - speaker_name:
+  #   image:
+  #   title:
+  #   abstract:
+  # - speaker_name:
+  #   image:
+  #   title:
+  #   abstract:
+  # - speaker_name:
+  #   image:
+  #   title:
+  #   abstract:
 # - type: project-night
 #   date: Thursday, 17 November 2016
 #   time: 7pm – 10pm
