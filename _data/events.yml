@@ -1,23 +1,23 @@
 - type: meetup
-  date: Thursday, 9 February 2017
+  date: Wednesday, 8 March 2017
   time: 6.30pm – 9pm
-  datetime_aria: Thursday, Ninth of February, two-thousand and seventeen, six-thirty pm to nine pm.
+  datetime_aria: Wednesday, Eighth of March, two-thousand and seventeen, six-thirty pm to nine pm.
   location: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
   location_for_google: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
-  url: https://www.meetup.com/London-Emberjs-User-Group/events/237130214/
+  url: https://www.meetup.com/London-Emberjs-User-Group/events/237900450/
   talks:
-  # - speaker_name:
-  #   image:
-  #   title:
-  #   abstract:
-  # - speaker_name:
-  #   image:
-  #   title:
-  #   abstract:
-  # - speaker_name:
-  #   image:
-  #   title:
-  #   abstract:
+  - speaker_name: Kuba Niechciał
+    speaker_twitter: jakubniechcial
+    image: /images/speakers/jakubniechcial.jpg
+    title: Improving the UX of Ember based applications is the developer’s job
+  - speaker_name: Laura Lebovic
+    speaker_twitter: lauralebovic
+    image: /images/speakers/lauralebovic.jpg
+    title: The Art of Mastering Ember 
+  - speaker_name: Miguel Camba
+    speaker_twitter: miguelcamba
+    image: /images/speakers/miguelcamba-1.jpg
+    title: Higher Order Components
 # - type: project-night
 #   date: Thursday, 17 November 2016
 #   time: 7pm – 10pm

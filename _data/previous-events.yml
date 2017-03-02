@@ -1,5 +1,14 @@
+# - type: meetup
+#   date: 9 February 2017
+#   talks:
+#   - speaker_name:
+#     speaker_twitter:
+#     image: /images/speakers/
+#     title:
+#     abstract:
+#     video_url:
 - type: meetup
-  date: Thursday, 12 January 2017
+  date: 12 January 2017
   talks:
   - speaker_name: Ben Holmes
     speaker_twitter: binhums
