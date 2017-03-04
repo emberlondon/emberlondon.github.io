@@ -55,6 +55,7 @@
     speaker_twitter: dremora
     image: /images/speakers/dremora.jpg
     title: Ember vs Elm
+    slides_url: https://speakerdeck.com/dremora/from-ember-to-elm
   - speaker_name: Ken Snyder
     speaker_twitter: yankeeinlondon
     image: /images/speakers/ken-2.jpg
