@@ -5,7 +5,7 @@
 {% if event.talks %}
   <hr role="presentation">
   <h3>Line-up</h3>
-  <ul class="row talks third-width-columns">
+  <ul class="row talks third-width-columns contains-{{event.talks | size}}">
     {% for talk in event.talks %}
       <li class="column talks-column">
         <div class="row">
