@@ -212,7 +212,7 @@ p { margin: 24px 0; }
   font-weight: bold;
   line-height: 1.5em;
 }
-.speaker-twitter { margin: -24px 0 -6px 0; }
+.speaker-twitter { margin: -24px 0 0 0; }
 
 .banner-title {
   position: absolute;

@@ -1,46 +1,44 @@
-# - type: meetup
-#   date: 9 February 2017
-#   talks:
-#   - speaker_name:
-#     speaker_twitter:
-#     image: /images/speakers/
-#     title:
-#     abstract:
-#     video_url:
+- type: meetup
+  date: 13 April 2017
+  talks:
+  - speaker_name: Ember London Family
+    speaker_twitter: emberlondon
+    image: /images/london-tomster.png
+    info: EmberConf 2017 Special
 - type: meetup
   date: 8 March 2017
   talks:
   - speaker_name: "Kuba Niechciał"
     speaker_twitter: jakubniechcial
     image: /images/speakers/jakubniechcial.jpg
-    title: Improving the UX of Ember based applications is the developer’s job
+    info: Improving the UX of Ember based applications is the developer’s job
   - speaker_name: Laura Lebovic
     speaker_twitter: lauralebovic
     image: /images/speakers/lauralebovic.jpg
-    title: The Art of Mastering Ember 
+    info: The Art of Mastering Ember 
   - speaker_name: Miguel Camba
     speaker_twitter: miguelcamba
     image: /images/speakers/miguelcamba-1.jpg
-    title: Higher Order Components
+    info: Higher Order Components
 - type: meetup
   date: 12 January 2017
   talks:
   - speaker_name: Ben Holmes
     speaker_twitter: binhums
     image: /images/speakers/binhums.jpg
-    title: Building delicious forms with Ember.js
+    info: Building delicious forms with Ember.js
     abstract: Often when building a form we are happy once the models are hooked up and our data is being saved. In practice, a good data entry experience has many more considerations that are easily met with the Ember.js ecosystem. We will build a set of example code for form UI that uses ember-concurrency, validations and error handling.
     video_url: https://pusher.com/sessions/meetup/ember-london/building-delicious-forms-with-emberjs
   - speaker_name: Chris Patuzzo
     speaker_twitter: cpatuzzo
     image: /images/speakers/cpatuzzo.jpg
-    title: Say Hello to Sentient
+    info: Say Hello to Sentient
     abstract: Sentient’s creator, Chris Patuzzo, will introduce the language, its backstory, and the fascinating theory that lies below its friendly surface.
     video_url: https://pusher.com/sessions/meetup/ember-london/say-hello-to-sentient
   - speaker_name: Deepan Aiyasamy
     speaker_twitter: deepanice
     image: /images/speakers/deepanice.jpg
-    title: Let's shake some trees
+    info: Let's shake some trees
     abstract: Hear about how we are using recast with Ember CLI at British Gas to only provide our web applications with the ember data models they need from a shared addon that contains all our models. You will also learn about abstract syntax trees and how Ember’s commitment to backward compatibility has influenced the way we introduce changes to our private shared addons.
     video_url: https://pusher.com/sessions/meetup/ember-london/lets-shake-some-trees
 - type: meetup
@@ -49,19 +47,19 @@
   - speaker_name: Jessica Jordan
     speaker_twitter: jjordan_dev
     image: /images/speakers/jjordan_dev.jpg
-    title: Leveraging HTML5 animations using CSS3, Ember.js and friends
+    info: Leveraging HTML5 animations using CSS3, Ember.js and friends
     abstract: Learn why open web standards are important for creating web animations today and find out how you can create your own using Ember.js, CSS3 and useful JavaScript libraries like Greensock and Processing.js.
     video_url: https://pusher.com/sessions/meetup/ember-london/leveraging-html5-animations-using-css3-emberjs-and-friends
   - speaker_name: Nikos Katsikanis
     speaker_twitter:
     image: /images/speakers/nkatsikanis.jpg
-    title: Making a modern (more fun) version of Space Invaders using TypeScript
+    info: Making a modern (more fun) version of Space Invaders using TypeScript
     abstract: You will learn OOP game coding for Canvas using the strong Typing of TypeScript.
     video_url: https://pusher.com/sessions/meetup/ember-london/making-a-modern-version-of-space-invaders-using-typescript
   - speaker_name: Paul Abraham
     speaker_twitter:
     image: /images/speakers/paulabraham.jpg
-    title: Ember Engines at Scale
+    info: Ember Engines at Scale
     abstract: Hear how the British Gas team have begun decomposing their app into engines.
     video_url: https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale
 - date: 20 October 2016
@@ -69,12 +67,12 @@
   - speaker_name: Kirill Korolyov
     speaker_twitter: dremora
     image: /images/speakers/dremora.jpg
-    title: Ember vs Elm
+    info: Ember vs Elm
     slides_url: https://speakerdeck.com/dremora/from-ember-to-elm
   - speaker_name: Ken Snyder
     speaker_twitter: yankeeinlondon
     image: /images/speakers/ken-2.jpg
-    title: Server-light with ember-horizon and redux
+    info: Server-light with ember-horizon and redux
 - date: 8 September 2016
   talks:
   - speaker_name: Deepan Aiyasamy
