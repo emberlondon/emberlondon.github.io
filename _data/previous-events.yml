@@ -1,4 +1,17 @@
 - type: meetup
+  date: 11 May 2017
+  talks:
+  - speaker_name: Michael Schinis
+    speaker_twitter: mschinis
+    image: images/speakers/mschinis.jpg
+    info: Algolia + Glimmer = ⚡️
+    # video_url:
+  - speaker_name: Nikos Katsikanis
+    speaker_twitter:
+    image: /images/speakers/nkatsikanis.jpg
+    info: Ember Test Recorder
+    # video_url:
+- type: meetup
   date: 13 April 2017
   talks:
   - speaker_name: Ember London Family
