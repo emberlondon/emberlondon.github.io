@@ -1,20 +1,20 @@
-# - type: meetup
-#   date: Thursday, 13 April 2017
-#   time: 6.30pm – 9pm
-#   datetime_aria: Thursday, Thirteenth of April, two-thousand and seventeen, six-thirty pm to nine pm.
-#   location: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
-#   location_for_google: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
-#   url: https://www.meetup.com/London-Emberjs-User-Group/events/237900517/
-#   talks:
-#   - speaker_name: Ember London Family
-#     speaker_twitter: emberlondon
-#     image: /images/london-tomster.png
-#     title: EmberConf 2017 Special
-#     abstract: A review of all the cool stuff announced at EmberConf 2017
-- type: project-night
-  date: Thursday, 25 May 2017
-  time: 7pm – 10pm
-  datetime_aria: Thursday, Twenty-fifth of May, two-thousand and seventeen, seven pm to ten pm.
-  location: Movidiam, Aldgate Tower, 2 Leman Street, London E1 8FA
-  location_for_google: Aldgate Tower, 2 Leman Street, London E1 8FA
-  url: https://www.meetup.com/London-Emberjs-User-Group/events/237900435/
+- type: meetup
+  date: Thursday, 8 June 2017
+  time: 6.30pm – 9pm
+  datetime_aria: Thursday, Eighth of June, two-thousand and seventeen, six-thirty pm to nine pm.
+  location: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
+  location_for_google: AlphaSights, Thames Court, 1 Queenhithe, London EC4V 3DX
+  url: https://www.meetup.com/London-Emberjs-User-Group/events/239900060/
+  # talks:
+  # - speaker_name: Ember London Family
+  #   speaker_twitter: emberlondon
+  #   image: /images/london-tomster.png
+  #   title: EmberConf 2017 Special
+  #   abstract: A review of all the cool stuff announced at EmberConf 2017
+# - type: project-night
+#   date: Thursday, 25 May 2017
+#   time: 7pm – 10pm
+#   datetime_aria: Thursday, Twenty-fifth of May, two-thousand and seventeen, seven pm to ten pm.
+#   location: Movidiam, Aldgate Tower, 2 Leman Street, London E1 8FA
+#   location_for_google: Aldgate Tower, 2 Leman Street, London E1 8FA
+#   url: https://www.meetup.com/London-Emberjs-User-Group/events/237900435/
