@@ -46,7 +46,7 @@
     abstract: Often when building a form we are happy once the models are hooked up and our data is being saved. In practice, a good data entry experience has many more considerations that are easily met with the Ember.js ecosystem. We will build a set of example code for form UI that uses ember-concurrency, validations and error handling.
     video_url: https://pusher.com/sessions/meetup/ember-london/building-delicious-forms-with-emberjs
   - speaker_name: Chris Patuzzo
-    speaker_twitter: cpatuzzo
+    speaker_twitter: chrispatuzzo
     image: /images/speakers/cpatuzzo.jpg
     info: Say Hello to Sentient
     abstract: Sentient’s creator, Chris Patuzzo, will introduce the language, its backstory, and the fascinating theory that lies below its friendly surface.
