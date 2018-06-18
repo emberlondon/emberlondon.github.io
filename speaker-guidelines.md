@@ -11,6 +11,8 @@ Please provide the following at least **2 weeks** in advance of the event:
 - The title of your talk
 - A one-sentence abstract that answers the question:
   *what will I learn from this talk?*
+- Do you consent to your talk being recorded and published online?
+  (It's fine if not! It just helps knowing in advance).
 
 Email these to [talk@emberlondon.com](mailto:talk@emberlondon.com).
 
@@ -42,6 +44,9 @@ Please consider the following when preparing your talk:
   ```
 - If you use [f.lux](https://justgetflux.com/), remember to disable it prior to
   delivering your talk
+- Wear an outfit with pockets. This is only if you consent to our recording the talk.
+  We'll get you wired up with a lapel microphone, and the other end of the cable
+  has a small box that you'll need to carry in your pocket.
 
 ---
 
