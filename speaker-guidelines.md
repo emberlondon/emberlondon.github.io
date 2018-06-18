@@ -12,7 +12,9 @@ Please provide the following at least **2 weeks** in advance of the event:
 - A one-sentence abstract that answers the question:
   *what will I learn from this talk?*
 - Do you consent to your talk being recorded and published online?
-  (It's fine if not! It just helps knowing in advance).
+  It's fine if not! It just helps knowing in advance. We are also
+  happy if you prefer not to share your picture, as well as any
+  other similar concerns that you may have.
 
 Email these to [talk@emberlondon.com](mailto:talk@emberlondon.com).
 
