@@ -5,16 +5,23 @@ title: Speaker Guidelines
 
 # Ember London Speaker Guidelines
 
-Please provide the following at least **2 weeks** in advance of the event:
+First of all, please review our [code of conduct](https://github.com/emberlondon/code-of-conduct)
+before deciding to attend Ember London, be it as a speaker or otherwise.
 
-- A good quality photograph of yourself
+Please provide the following in advance of the event:
+
 - The title of your talk
-- A one-sentence abstract that answers the question:
+- A short abstract that answers the question:
   *what will I learn from this talk?*
+
+Optionally, and **only if you consent**, please provide:
+
+- A good quality photograph of yourself to be used on promotional materials.
+
+Finally, when resources permit **and speakers consent**, we record our talks.
+Please let us know:
+
 - Do you consent to your talk being recorded and published online?
-  It's fine if not! It just helps knowing in advance. We are also
-  happy if you prefer not to share your picture, as well as any
-  other similar concerns that you may have.
 
 Email these to [talk@emberlondon.com](mailto:talk@emberlondon.com).
 
@@ -31,22 +38,14 @@ Please consider the following when preparing your talk:
 - Avoid content which may make people uncomfortable
   Particularly jokes with sexual connotations
   (if in doubt, please ask)
-- Review our [code of conduct](https://github.com/emberlondon/code-of-conduct)
-- The projector resolution is **1920x1080**
-  (your slides don’t *have* to be 16:9 but we find they look best at that aspect)
-- Do not use a pure white background
-  (the projector gets confused)
-- You will be using your own laptop
-  (let us know if you’d rather not)
-- Feel free to live code
-  (we can capture it just fine)
-- SSH is blocked but we can work around it for Git with this command:
-  ```
-  git config --global url."https://".insteadOf git://
-  ```
+- By default, we assume that you will be using your own laptop. Please let us
+  know if you’d rather not.
+- Feel free to live code; we can capture it just fine.
+- Non-HTTP traffic (eg: SSH) might be blocked. It depends on the venue. Please
+  let us know if you'll need it so that we can accommodate or find workarounds.
 - If you use [f.lux](https://justgetflux.com/), remember to disable it prior to
   delivering your talk
-- Wear an outfit with pockets. This is only if you consent to our recording the talk.
+- If your talk will be recorded, please wear an outfit with pockets.
   We'll get you wired up with a lapel microphone, and the other end of the cable
   has a small box that you'll need to carry in your pocket.
 
