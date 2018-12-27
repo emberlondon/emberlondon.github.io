@@ -14,13 +14,12 @@ Please provide the following in advance of the event:
 - A short abstract that answers the question:
   *what will I learn from this talk?*
 
-Optionally, and **only if you consent**, please provide:
+We often record our talks and create promotional materials with pictures
+of our speakers, but **only with their consent**. This is completely optional
+and not required to speak at Ember London. Please let us know:
 
-- A good quality photograph of yourself to be used on promotional materials.
-
-Finally, when resources permit **and speakers consent**, we record our talks.
-Please let us know:
-
+- Do you consent to our using your image to promote the meetup?
+  - If you do, please provide a good quality photograph of yourself that we can use.
 - Do you consent to your talk being recorded and published online?
 
 Email these to [talk@emberlondon.com](mailto:talk@emberlondon.com).
