@@ -34,7 +34,7 @@ Please consider the following when preparing your talk:
 - Your talk should be **5–20 minutes** long
 - 5 minute talks are very welcome
 - Each slot is 30 minutes max, including Q&A
-- Avoid content which may make people uncomfortable
+- Avoid content which may make people uncomfortable.
   Particularly jokes with sexual connotations
   (if in doubt, please ask)
 - By default, we assume that you will be using your own laptop. Please let us
